@@ -1,0 +1,45 @@
+body {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666666;
+  padding: 3em;
+  transition: padding 0.2s ease;
+}
+
+h1, h2 {
+  font-family: Garamond, Georgia, Palatino, Serif;
+  font-weight: normal;
+}
+
+header h1, header h2 {
+  margin: 0;
+}
+
+a {
+  color: mediumseagreen;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: seagreen;
+}
+
+p {
+  line-height: 1.5;
+}
+
+li {
+  list-style-type: circle;
+  margin: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 2em;
+  }
+}
