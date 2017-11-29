@@ -1,11 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
-  if (window.location.hash) App.go(App.currentHash());
+  if (window.location.hash && window.innerWidth > 767) App.go(App.currentHash());
   window.addEventListener('keydown', function(e){
-    if (e.which === 39 || e.which === 37) {
-      e.preventDefault(); App.toggle(e.which);
+    if (window.innerWidth < 768) return;
+    if (e.which === 39 || e.which === 34 || e.which === 40) {
+      e.preventDefault(); App.toggle('next');
+    } else if (e.which === 37 || e.which === 33 || e.which === 38){
+      e.preventDefault(); App.toggle('prev');
     } else { return; }
   })
   window.addEventListener('hashchange', function(e){
+    if (window.innerWidth < 768) return;
     if (+e.newURL.split("#")[1] < App.length()) App.go(+e.newURL.split("#")[1])
   })
 });
@@ -25,7 +29,7 @@ var App = {
   },
   toggle: function(which) {
     var oldHash = this.currentHash();
-    var newHash = which === 37 ? Math.max(oldHash - 1, 0) : Math.min(oldHash + 1, this.length() - 1);
+    var newHash = which === 'prev' ? Math.max(oldHash - 1, 0) : Math.min(oldHash + 1, this.length() - 1);
     document.body.style.transform = "translateX(-" + (newHash * 100) + "vw)"
     window.location.hash = newHash;
     App.current = newHash;

@@ -8,12 +8,12 @@ body {
   flex-direction: column;
   transform: translateX(0vw);
   transition: transform 1s ease-in-out;
+  overflow: hidden;
 }
 
 section {
-  height: 100vh;
+  height: 100%;
   width: 100vw;
-  background: lightgrey;
 }
 
 section.vc {
@@ -27,7 +27,7 @@ section.blue {
   background: #009cdeff;
 }
 
-section.white {
+section {
   background: white;
   color: #009cdeff;
 }
@@ -64,13 +64,18 @@ a:hover {
   color: lightgrey;
 }
 
-.white a, p {
+.exp a, p {
   font-size:0.9rem;
   color: darkgrey;
   text-align: left;
 }
 
-.white a:hover {
+.exp p {
+  max-width: 968px;
+  margin: 2rem auto;
+}
+
+.exp a:hover {
   color: grey;
 }
 
@@ -84,6 +89,10 @@ section.vc h2 {
 
 .container {
   padding: 0 5rem;
+}
+
+.wrapper {
+  width: 100%;
 }
 
 .center {
@@ -114,34 +123,55 @@ img {
   width: 100%;
 }
 
-img.y-scale {
-  max-height: 320px;
+.height {
+  margin-top: 2rem;
+  height: calc(100vh - 20rem);
+  max-height: 800px;
   width: auto;
 }
 
-.y-scale:first-of-type {
-  margin-top: 1rem;
-  max-height: 340px;
-  padding-right: 20vw;
+.height:first-of-type {
+  padding-right: 15vw;
 }
-
 .x-scale:first-of-type {
-  margin: 15vh 0;
+  margin: 5rem 0;
 }
 
-img.legend {
-  margin-top: 10vh;
-  max-height: 350px;
-  width: auto;
-}
-
-.legend:first-of-type {
-  max-height: 570px;
-  padding-right: 20vw;
-}
-
-img.annotation {
+.annotation {
   margin-top: 5vh;
   max-height: 70vh;
   width: auto;
+}
+
+@media (max-width: 767px) {
+  body {
+    display: block;
+    overflow: auto;
+    word-wrap: break-word;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.75rem; }
+  h3 { font-size: 1.5rem; }
+  h4 { font-size: 1.25rem; }
+  ul { font-size: 0.9rem; }
+
+  .container, .container.image { padding: 0 1rem; }
+
+  section {
+    height: auto;
+    margin-bottom: 3rem;
+  }
+  section.blue { height: 100%; }
+  section:last-of-type { margin-bottom: 0; }
+
+  img { max-width: 100%; }
+  .x-scale:first-of-type { margin: 1rem 0 0 0; }
+  .height { max-height: 200px; }
+  .annotation { max-height: 300px; }
+
+  .exp p {
+    max-width: 100%;
+    margin: 1rem auto;
+  }
 }
