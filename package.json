@@ -1,0 +1,31 @@
+{
+  "name": "kim-niedermaier",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Kim Niedermaier's corner of the internet",
+  "main": "index.js",
+  "author": "kimniedermaier <hello@kimniedermaier.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.16.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby-image": "^2.2.29",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sharp": "^2.2.31",
+    "gatsby-plugin-styled-components": "^3.1.11",
+    "gatsby-source-filesystem": "^2.1.33",
+    "gatsby-transformer-sharp": "^2.2.23",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^4.4.0"
+  }
+}
