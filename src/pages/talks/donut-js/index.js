@@ -9,6 +9,7 @@ const StyledTitle = styled(StyledHeading)`
   margin: 0;
   font-family: Garamond, Georgia, serif;
   text-transform: none;
+  font-style: italic;
 `;
 
 const StyledSection = styled.section`
@@ -20,13 +21,13 @@ const StyledListItem = styled.li`
 `;
 
 const DonutJsIndexPage = () => (
-  <Layout>
+  <Layout width="wide">
     <SEO title="🍩" />
     <StyledTitle as="h1">
       Data, design, and D3.js:
     </StyledTitle>
     <StyledTitle as="h2">
-      <em>a primer on making clear graphics</em>
+      a primer on making clear graphics
     </StyledTitle>
     <StyledSection>
       <StyledTitle as="h2">Slides</StyledTitle>
