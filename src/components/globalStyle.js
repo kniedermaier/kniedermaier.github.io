@@ -1,5 +1,5 @@
-import { createGlobalStyle } from "styled-components"
-import { rem } from "polished"
+import { createGlobalStyle } from 'styled-components'
+import { rem } from 'polished'
 
 export const GlobalStyle = createGlobalStyle`
   body {
@@ -31,4 +31,4 @@ export const GlobalStyle = createGlobalStyle`
   p, li {
     line-height: ${rem(24)};
   }
-`;
+`

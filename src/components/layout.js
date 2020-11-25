@@ -1,16 +1,16 @@
-import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import styled from "styled-components"
-import { rem } from "polished"
-import { GlobalStyle } from "./globalStyle"
-import Header from "./header"
+import React from 'react'
+import { useStaticQuery, graphql } from 'gatsby'
+import styled from 'styled-components'
+import { rem } from 'polished'
+import { GlobalStyle } from './globalStyle'
+import Header from './header'
 
 const StyledMain = styled.main`
-  max-width: ${props => props.width ? '600px' : '500px'};
+  max-width: ${(props) => (props.width ? '600px' : '500px')};
   margin: 0 auto;
   padding: ${rem(16)};
 
-  @media(min-width: 600px) {
+  @media (min-width: 600px) {
     padding: ${rem(32)};
   }
 `

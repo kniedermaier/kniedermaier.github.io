@@ -1,9 +1,5 @@
-import React from 'react';
+import React from 'react'
 
-const AppWrapper = ({ children }) => (
-  <>
-    {children}
-  </>
-);
+const AppWrapper = ({ children }) => <>{children}</>
 
-export default AppWrapper;
+export default AppWrapper
