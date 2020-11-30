@@ -66,7 +66,7 @@ const StyledNavHeading = styled(StyledHeading)`
     font-size: ${rem(24)};
   }
 
-  margin-right: ${(props) => (props.noMarginRight ? '0' : rem(16))};
+  margin-right: ${({ noMarginRight }) => (noMarginRight ? '0' : rem(16))};
   &:last-of-type {
     margin-right: 0;
   }
@@ -92,11 +92,11 @@ const Header = ({ siteTitle }) => {
         </Link>
       </StyledHeading>
       <StyledMenuHeading as="h2" onClick={toggleMenuOptionsVisible}>
-        Menu
+        {areMenuOptionsVisible ? 'Close' : 'Menu'}
       </StyledMenuHeading>
       {areMenuOptionsVisible && (
         <StyledMenuNav>
-          <StyledNavHeading as="h2" noMarginRight={true}>
+          <StyledNavHeading as="h2" noMarginRight>
             <Link
               to="/work"
               activeStyle={activeStyles()}

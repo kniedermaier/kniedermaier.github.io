@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import styled from 'styled-components'
 import { rem } from 'polished'
@@ -6,7 +6,7 @@ import { GlobalStyle } from './globalStyle'
 import Header from './header'
 
 const StyledMain = styled.main`
-  max-width: ${(props) => (props.width ? '600px' : '500px')};
+  max-width: ${({ width }) => (width ? 600 : 500)}px;
   margin: 0 auto;
   padding: ${rem(16)};
 
@@ -27,11 +27,11 @@ const Layout = ({ children, width }) => {
   `)
 
   return (
-    <>
+    <Fragment>
       <GlobalStyle />
       <Header siteTitle={data.site.siteMetadata.title} />
       <StyledMain width={width}>{children}</StyledMain>
-    </>
+    </Fragment>
   )
 }
 

@@ -7,6 +7,7 @@ import { StyledHeading } from '../../components/header'
 import Donut from '../../components/images/donut'
 import Globe from '../../components/images/globe'
 import Map from '../../components/images/map'
+import Swifts from '../../components/images/swifts'
 import SaferLink from '../../components/saferLink'
 
 const StyledContainer = styled.div`
@@ -42,6 +43,21 @@ const WorkIndexPage = () => (
   <Layout width="wide">
     <SEO title="💻" />
     <StyledHeading as="h2">Work</StyledHeading>
+    <StyledMediumTitle as="h3">Portland Swifts Ultimate Website</StyledMediumTitle>
+    <StyledContainer>
+      <Swifts />
+      <div>
+        <p>
+          Collaborated with members of the Portland Swifts executive committee to build a website for the program.
+        </p>
+        <StyledUlTitle>Featuring:</StyledUlTitle>
+        <ul>
+          <li>Responsive design</li>
+          <li>Accessible, semantic HTML</li>
+          <li>Lazy-loaded images via Gatsby.js</li>
+        </ul>
+      </div>
+    </StyledContainer>
     <StyledMediumTitle as="h3">ActBlue 2016 Report</StyledMediumTitle>
     <StyledContainer>
       <Donut />
