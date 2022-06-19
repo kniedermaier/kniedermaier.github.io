@@ -1,0 +1,45 @@
+body,
+header {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666666;
+  padding: 3em;
+  transition: padding 0.2s ease;
+}
+
+h1,
+h2 {
+  font-family: Garamond, Georgia, Palatino, Serif;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+a {
+  color: #397955;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #20603C;
+  text-decoration: underline;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+@media (max-width: 600px) {
+  body {
+    padding: 2em;
+  }
+}

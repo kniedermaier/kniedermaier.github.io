@@ -1,38 +1,15 @@
 {
   "name": "kim-niedermaier",
   "private": true,
-  "version": "1.0.0",
-  "description": "Kim Niedermaier's corner of the internet",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Kim Niedermaier’s corner of the internet",
+  "main": ".eleventy.js",
   "author": "kimniedermaier <hello@kimniedermaier.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "core-js": "^3.0.0",
-    "gatsby": "^2.27.3",
-    "gh-pages": "^3.1.0",
-    "jimp": "^0.16.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "typescript": "^2.7"
-  },
+  "license": "ISC",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "start": "npx eleventy --serve"
   },
-  "dependencies": {
-    "babel-plugin-polished": "^1.1.0",
-    "babel-plugin-styled-components": "^1.12.0",
-    "gatsby-image": "^2.6.0",
-    "gatsby-plugin-polished": "^1.0.4",
-    "gatsby-plugin-react-helmet": "^3.5.0",
-    "gatsby-plugin-sharp": "^2.9.0",
-    "gatsby-plugin-styled-components": "^3.5.0",
-    "gatsby-source-filesystem": "^2.6.1",
-    "gatsby-transformer-sharp": "^2.7.0",
-    "polished": "^4.0.5",
-    "react-helmet": "^6.1.0",
-    "styled-components": "^5.2.1"
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
   }
 }

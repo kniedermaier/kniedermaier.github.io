@@ -1,2 +1,0 @@
-# kimniedermaier.com
-personal website
