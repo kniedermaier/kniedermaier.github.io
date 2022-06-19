@@ -1,12 +1,8 @@
 .cache
 .DS_Store
 .env
-.sass-cache
 *.log
-*.scssc
 *.swp
-dist
 node_modules
 npm-debug.*
-src/_includes/css
-Thumbs.db
+public

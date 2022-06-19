@@ -1,11 +1,11 @@
 {% set hasImage = item.image.href %}
-<article>
+<article class="work">
 <h2>{{ item.name }}</h2>
-<div>
+<div class="wrapper">
 {% if hasImage %} <a href="{{ item.image.href }}">{% endif %}
 <img alt="{{ item.image.alt }}" src="{{ item.image.src }}"/>
 {% if hasImage %} </a>{% endif %}
-<div>
+<div class="text">
 <p>{{ item.description }}</p>
 <p>{{ item.detail }}</p>
 <ul>

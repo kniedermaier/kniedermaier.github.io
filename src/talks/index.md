@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Talk (so far!)
+title: Just the one talk so far!
 ---
 
-<section>
+<article>
 <ul>
   <li>
     <a href="/talks/donut-js">
@@ -11,4 +11,4 @@ title: Talk (so far!)
     </a>(November 2017 at <a href="http://donutjs.club">Donut.js</a>)
   </li>
 </ul>
-</section>
+</article>

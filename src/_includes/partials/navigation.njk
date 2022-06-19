@@ -1,13 +1,11 @@
-<a href="#main-content">Skip to content</a>
+<a class="skip-link button" href="#main-content">Skip to content</a>
 <header role="banner" class="site-head">
-  <a href="/" aria-label="{{ site.name }} | Home">
-    {{ site.name }}
-  </a>
+  <a href="/" aria-label="{{ site.name }} | Home">{{ site.name }}</a>
   <nav aria-label="Primary navigaton">
     <ul>
       {% for item in navigation.links %}
         <li>
-          <a href="{{ item.url }}">{{ item.text }}</a>
+          <a href="{{ item.url }}"{{helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
         </li>
       {% endfor %}
     </ul>
