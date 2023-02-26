@@ -5,7 +5,7 @@ title: Hi, I’m Kim.
 
 <article>
   <p>
-    I currently work as an engineering manager at <a href="https://www.bravecare.com">Brave Care</a>, where I do my best to help a team of driven, considerate, and talented engineers build technology that supports multiple pediatric clinics and tools used by families across the U.S.
+    I currently work as a software engineer at <a href="https://www.bravecare.com">Brave Care</a>, where I'm part of a team of driven, considerate, and talented engineers building technology that supports multiple pediatric clinics and tools used by families across the U.S. Throughtout my tenure, I've taken an array of roles, including a year-long stint as an engineering manager. I'm back on the individual contributer side of the <a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">engineer/manager pendulum</a>, finding statisfaction with writing passing tests and solving problems across the stack.
   </p>
 
   <p>

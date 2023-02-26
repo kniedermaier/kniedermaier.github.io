@@ -33,7 +33,7 @@
         "src": "/assets/images/globe.jpg",
         "href": "https://parallellives.huffpost.com/"
       },
-      "description": "Teamed up with another software developer to make this website, which showcases some incredibly moving videography from the team at {{ link }}",
+      "description": "Teamed up with another software developer to make this website, which showcases some incredibly moving videography from the team at ",
       "link": "<a href='http://www.documist.com'>Documist</a>",
       "detail": "Image- and video-intensive website built with:",
       "details": ["Middleman", "D3.js", "ScrollMagic"]
