@@ -7,9 +7,10 @@
   "author": "kimniedermaier <hello@kimniedermaier.com>",
   "license": "ISC",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^2.0.0"
   }
 }
