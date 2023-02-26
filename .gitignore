@@ -5,4 +5,4 @@
 *.swp
 node_modules
 npm-debug.*
-public
+docs
