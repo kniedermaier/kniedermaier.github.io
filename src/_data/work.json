@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "name": "Portland Swifts Ultimate Website",
+      "image": {
+        "alt": "Portland Swifts logo",
+        "src": "/assets/images/swifts.jpg",
+        "href": ""
+      },
+      "description": "Collaborated with members of the Portland Swifts executive committee to build a proof-of-concept website for the short-lived program.",
+      "detail": "Featuring:",
+      "details": [
+        "Responsive design",
+        "Accessible, semantic HTML",
+        "Lazy-loaded images via Gatsby.js"
+      ]
+    },
+    {
+      "name": "ActBlue 2016 Report",
+      "image": {
+        "alt": "A pie chart representing the election cycle small-dollar donors became active",
+        "src": "/assets/images/donut.jpg",
+        "href": "https://report.actblue.com/2016/"
+      },
+      "description": "Worked with other members of the ActBlue marketing team as the lead developer to build this website summarizing the year’s accomplishments.",
+      "detail": "Featuring:",
+      "details": ["D3.js visualizations", "Bespoke SVG animations"]
+    },
+    {
+      "name": "ECHO — Parallel Lives",
+      "image": {
+        "alt": "Cropped map of Africa to demonstrate ",
+        "src": "/assets/images/globe.jpg",
+        "href": "https://parallellives.huffpost.com/"
+      },
+      "description": "Teamed up with another software developer to make this website, which showcases some incredibly moving videography from the team at ",
+      "link": "<a href='http://www.documist.com'>Documist</a>",
+      "detail": "Image- and video-intensive website built with:",
+      "details": ["Middleman", "D3.js", "ScrollMagic"]
+    },
+    {
+      "name": "ActBlue 2015 Report",
+      "image": {
+        "alt": "A map of the Eastern United States where small-dollar donors are active",
+        "src": "/assets/images/map.jpg",
+        "href": "https://report.actblue.com/2015"
+      },
+      "description": "Collaborated with other members of the ActBlue digital team to design and create this marketing site.",
+      "detail": "Includes:",
+      "details": [
+        "A mix of static and dynamic D3.js visualizations",
+        "ScrollMagic",
+        "Thousands of lines of SVG"
+      ]
+    }
+  ]
+}

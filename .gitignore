@@ -1,4 +1,8 @@
-node_modules/
-.cache/
-public
+.cache
 .DS_Store
+.env
+*.log
+*.swp
+node_modules
+npm-debug.*
+public
