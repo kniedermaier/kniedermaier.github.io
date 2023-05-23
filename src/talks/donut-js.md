@@ -3,8 +3,8 @@ layout: layouts/page.njk
 title: Data, design, and D3.js
 ---
 
-<h2>a primer on making clear graphics</h2>
-<article>
+<h2>(a primer on making clear graphics)</h2>
+<article class="donut">
   <h2>Slides</h2>
   <ul>
     <li>
@@ -15,7 +15,7 @@ title: Data, design, and D3.js
     </li>
   </ul>
 </article>
-<article>
+<article class="donut">
   <h2>Video</h2>
   <ul>
     <li>
@@ -25,7 +25,7 @@ title: Data, design, and D3.js
     </li>
   </ul>
 </article>
-<article>
+<article class="donut">
   <h2>Cited examples</h2>
   <ul>
     <li>
@@ -48,7 +48,7 @@ title: Data, design, and D3.js
     </li>
   </ul>
 </article>
-<article>
+<article class="donut">
   <h2>Additional resources</h2>
   <ul>
     <li>

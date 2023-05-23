@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Just the one talk so far!
+title: Talks (so far one!)
 ---
 
 <article>
