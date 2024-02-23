@@ -1,0 +1,30 @@
+{% for year, books in years %}
+<article class="year">
+<div class="info">
+<h2 id="{{year}}">{{ year }}</h2>
+<p class="bold">{{books.length}} books</p>
+</div>
+<div class="books">
+{% for book in books %}
+<div class="book">
+{% if book.bookshopDotOrg %}
+<a href="{{book.bookshopDotOrg}}">
+<div class="cover">
+<img src="{{book.coverSrc}}" loading="lazy"/>
+</div>
+</a>
+{% else %}
+<div class="cover">
+<img src="{{book.coverSrc}}" loading="lazy"/>
+</div>
+{% endif %}
+<h3>{{book.title}}</h3>
+{% if book.subtitle %}
+<h4>{{book.subtitle}}</h4>
+{% endif %}
+<p>{{book.author}}</p>
+</div>
+{% endfor %}
+</article>
+{% endfor %}
+</div>

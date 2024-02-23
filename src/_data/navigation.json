@@ -1,12 +1,16 @@
 {
   "links": [
     {
+      "text": "Bookshelf",
+      "url": "/bookshelf"
+    },
+    {
       "text": "Talks",
-      "url": "/talks/"
+      "url": "/talks"
     },
     {
       "text": "Work",
-      "url": "/work/"
+      "url": "/work"
     }
   ]
 }

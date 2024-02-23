@@ -1,10 +1,21 @@
 :root {
+  --color: #666666;
+  --gray: lightgray;
+  --accent-gray: whitesmoke;
   --primary-color: #6261d0;
   --primary-dark-color: #3b3ac4;
-  --white: #ffffff;
-  --light-gray: whitesmoke;
-  --gray: lightgray;
-  --dark-gray: #666666;
+  --background: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color: lightgray;
+    --gray: gray;
+    --accent-gray: #454545;
+    --primary-color: #b1a8ff;
+    --primary-dark-color: #ccc7ff;
+    --background: #333333;
+  }
 }
 
 main {
@@ -13,21 +24,32 @@ main {
 }
 
 body {
-  font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;;
-  color: var(--dark-gray);
+  font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco",
+    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  color: var(--color);
   margin: 0;
+  background-color: var(--background);
   background-size: 90px 90px;
-  background-image:
-    linear-gradient(to right, transparent 60px, var(--light-gray) 60px 61px, transparent 61px),
-    linear-gradient(to bottom, transparent 40px, var(--light-gray) 40px 41px, transparent 41px);
+  background-image: linear-gradient(
+      to right,
+      transparent 60px,
+      var(--accent-gray) 60px 61px,
+      transparent 61px
+    ),
+    linear-gradient(
+      to bottom,
+      transparent 40px,
+      var(--accent-gray) 40px 41px,
+      transparent 41px
+    );
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.25rem;
   font-weight: normal;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: normal;
 }
 
@@ -52,12 +74,18 @@ a:focus {
 }
 
 [data-state="active"] {
-  box-shadow:0px 0px 0 4px var(--light-gray), -4px 0px 0px 4px var(--primary-color);
+  box-shadow: 0px 0px 0 4px var(--accent-gray),
+    -5px 0px 0px 3px var(--primary-color);
 }
 
-p, li {
+p,
+li {
   line-height: 1.3;
   font-size: 1.25rem;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .skip-link {
@@ -81,30 +109,31 @@ p, li {
 
 .button {
   background: var(--primary-color);
-  color: var(--white);
+  color: var(--background);
   padding: 8px 16px;
   border: 2px solid var(--primary-color);
 }
 
 .button:hover {
   background: var(--primary-dark-color);
-  color: var(--white);
+  color: var(--background);
   text-decoration: none;
   border: 2px solid var(--primary-dark-color);
 }
 
 .button:focus {
   outline: none;
-  box-shadow: inset 0 0 0 2px var(--white);
+  box-shadow: inset 0 0 0 2px var(--background);
 }
 
 header {
   padding: 1rem;
   align-items: center;
-  background: var(--light-gray);
+  background: var(--accent-gray);
 }
 
-header, nav {
+header,
+nav {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -176,7 +205,7 @@ li {
   border: 1px solid var(--gray);
   padding: 1rem;
   border-radius: 8px;
-  background: white;
+  background: var(--background);
   margin-top: 2rem;
 }
 
@@ -188,17 +217,74 @@ li {
   margin-top: 2rem;
 }
 
-@media(min-width: 500px) {
+.year {
+  margin: 2rem 0 0;
+}
+
+.year h2 {
+  margin: 0 1rem 0 0;
+}
+
+.year .info {
+  display: flex;
+  align-items: baseline;
+  margin: 0 0 1rem;
+}
+
+.bookshelf h3 {
+  margin: 1rem 0 0;
+}
+
+.bookshelf h4 {
+  margin: 0.33rem 0 0.67rem;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.bookshelf p {
+  margin: 0.33rem 0 0;
+  font-size: 1rem;
+}
+
+.books {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+}
+
+.book {
+  display: block;
+}
+
+.book:focus-within img {
+  outline: 4px solid var(--primary-dark-color);
+  outline-offset: 4px;
+}
+
+.cover img {
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  height: 250px;
+}
+
+@media (min-width: 500px) {
   nav li {
-    padding:0 0 0 1rem;
+    padding: 0 0 0 1rem;
     width: unset;
   }
+
   [data-state="active"] {
-    box-shadow: 0px -4px 0 8px var(--light-gray), 0px 0px 0px 8px var(--primary-color);
+    box-shadow: 0px -4px 0 8px var(--accent-gray),
+      0px 0px 0px 8px var(--primary-color);
   }
 
   header a {
     width: unset;
+  }
+
+  section.bookshelf {
+    max-width: 1200px;
   }
 }
 
@@ -217,7 +303,7 @@ li {
     font-size: 1.25rem;
     width: unset;
   }
-  
+
   .wrapper {
     display: grid;
     grid-template-columns: 200px 1fr;
@@ -234,5 +320,14 @@ li {
 
   .work {
     padding: 1.5rem;
+  }
+
+  .books {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-gap: 1.5rem;
+  }
+
+  .cover img {
+    height: 270px;
   }
 }
