@@ -159,8 +159,12 @@ nav ul {
   justify-content: flex-end;
 }
 
-nav li {
+nav li,
+.sidebar li {
   list-style-type: none;
+}
+
+nav li {
   margin: 0;
   width: 100%;
   padding-top: 0.5rem;
@@ -217,7 +221,21 @@ li {
   margin-top: 2rem;
 }
 
-.year {
+.bookContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+  width: 100%;
+}
+
+.sidebar ul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.5rem;
+  padding: 0;
+}
+
+.year:not(:first-of-type) {
   margin: 2rem 0 0;
 }
 
@@ -284,7 +302,22 @@ li {
   }
 
   section.bookshelf {
-    max-width: 1200px;
+    max-width: 1400px;
+  }
+
+  .bookContainer {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 2rem;
+    width: 100%;
+  }
+  
+  .sidebar ul {
+    flex-direction: column;
+  }
+  
+  .year:not(:first-of-type) {
+    margin: 2rem 0 0;
   }
 }
 

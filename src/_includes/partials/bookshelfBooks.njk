@@ -10,12 +10,12 @@
 {% if book.bookshopDotOrg %}
 <a href="{{book.bookshopDotOrg}}">
 <div class="cover">
-<img src="{{book.coverSrc}}" loading="lazy"/>
+<img src="{{book.coverSrc}}" loading="lazy" alt="Cover of {{book.title}}"/>
 </div>
 </a>
 {% else %}
 <div class="cover">
-<img src="{{book.coverSrc}}" loading="lazy"/>
+<img src="{{book.coverSrc}}" loading="lazy" alt="Cover of {{book.title}}"/>
 </div>
 {% endif %}
 <h3>{{book.title}}</h3>
@@ -27,4 +27,3 @@
 {% endfor %}
 </article>
 {% endfor %}
-</div>

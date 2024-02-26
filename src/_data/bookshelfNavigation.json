@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "text": "All",
+      "url": "/bookshelf/"
+    },
+    {
+      "text": "2023",
+      "url": "/bookshelf/2023/"
+    },
+    {
+      "text": "2022",
+      "url": "/bookshelf/2022/"
+    },
+    {
+      "text": "2021",
+      "url": "/bookshelf/2021/"
+    },
+    {
+      "text": "2020",
+      "url": "/bookshelf/2020/"
+    },
+    {
+      "text": "2019",
+      "url": "/bookshelf/2019/"
+    },
+    {
+      "text": "2018",
+      "url": "/bookshelf/2018/"
+    },
+    {
+      "text": "2017",
+      "url": "/bookshelf/2017/"
+    },
+    {
+      "text": "2016",
+      "url": "/bookshelf/2016/"
+    }
+  ]
+}
