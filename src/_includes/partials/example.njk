@@ -11,7 +11,10 @@
 <img alt="{{ item.image.alt }}" src="{{ item.image.src }}"/>
 {% endif %}
 <div class="text">
-<p>{{ item.description }}{% if hasLink%}{{ item.link | safe }}{% endif %}</p>
+<p>{{ item.description }}
+{% if hasLink%}{{ item.link | safe }}
+{% endif %}
+</p>
 <p>{{ item.detail }}</p>
 <ul>
 {% for item in item.details %}

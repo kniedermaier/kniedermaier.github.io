@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 ---
 <div class="bookContainer">
-  <div class="sidebar">
+  <nav class="sidebar">
     <ul>
       {% for item in bookshelfNavigation.items %}
         <li>
@@ -10,10 +10,14 @@ layout: layouts/page.njk
         </li>
       {% endfor %}
     </ul>
-  </div>
-  <div class="bookCollection">
+  </nav>
+  <div>
+    {% include "partials/bookFilters.njk" %}
     {% for years in items %}
-      {% include "partials/bookshelfBooks.njk" %}
+      {% include "partials/booksByYear.njk" %}
     {% endfor %}
   </div>
 </div>
+<script>
+  {% include "bookshelf.js" %}
+</script>

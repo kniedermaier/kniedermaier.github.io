@@ -110,20 +110,20 @@ li {
 .button {
   background: var(--primary-color);
   color: var(--background);
-  padding: 8px 16px;
-  border: 2px solid var(--primary-color);
+  padding: 16px 24px;
+  border: 4px solid var(--primary-color);
 }
 
 .button:hover {
   background: var(--primary-dark-color);
   color: var(--background);
   text-decoration: none;
-  border: 2px solid var(--primary-dark-color);
+  border: 4px solid var(--primary-dark-color);
 }
 
 .button:focus {
   outline: none;
-  box-shadow: inset 0 0 0 2px var(--background);
+  box-shadow: inset 0 0 0 4px var(--background);
 }
 
 header {
@@ -133,7 +133,7 @@ header {
 }
 
 header,
-nav {
+nav.primary {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -151,7 +151,7 @@ header a:hover {
   text-decoration: underline;
 }
 
-nav ul {
+nav.primary ul {
   display: flex;
   flex-wrap: wrap;
   margin: 0;
@@ -159,12 +159,11 @@ nav ul {
   justify-content: flex-end;
 }
 
-nav li,
-.sidebar li {
+nav li {
   list-style-type: none;
 }
 
-nav li {
+nav.primary li {
   margin: 0;
   width: 100%;
   padding-top: 0.5rem;
@@ -287,7 +286,7 @@ li {
 }
 
 @media (min-width: 500px) {
-  nav li {
+  nav.primary li {
     padding: 0 0 0 1rem;
     width: unset;
   }

@@ -1,0 +1,12 @@
+<details>
+  <summary>Filter books by tags:</summary>
+  <form class="filter">
+    <fieldset class="tag">
+      <legend>Select tags <button class="clear hidden">Clear selection</button></legend>
+      {% for tag in tags %}
+        <input type="checkbox" id="{{tag.value}}" value="{{tag.value}}"/>
+        <label for="{{tag.value}}">{{tag.label}}</label>
+      {% endfor %}
+    </fieldset>
+  </form>
+</details>
