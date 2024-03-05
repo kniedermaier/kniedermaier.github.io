@@ -13,7 +13,7 @@ layout: layouts/page.njk
   </nav>
   <div>
     {% include "partials/bookFilters.njk" %}
-    {% for years in items %}
+    {% for years in books %}
       {% include "partials/booksByYear.njk" %}
     {% endfor %}
   </div>

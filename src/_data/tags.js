@@ -1,7 +1,9 @@
-const bookshelf = require("./bookshelf.json");
+const bookshelf = require("./bookshelf");
 
 module.exports = function () {
-  const books = bookshelf.years.map((year) => year[Object.keys(year)]).flat();
+  const books = bookshelf()
+    .years.map((year) => year[Object.keys(year)])
+    .flat();
 
   const tags = books.reduce((acc, cur) => {
     if (acc.length) {

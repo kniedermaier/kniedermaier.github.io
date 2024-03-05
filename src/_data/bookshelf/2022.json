@@ -1,0 +1,558 @@
+[
+  {
+    "author": "Gabrielle Zevin",
+    "bookshopDotOrg": "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593321201-M.jpg",
+    "isbn": "0593321200",
+    "isbn13": "9780593321201",
+    "subtitle": "A Novel",
+    "tags": ["technology", "friendship", "strong-sense-of-place"],
+    "title": "Tomorrow, and Tomorrow, and Tomorrow"
+  },
+  {
+    "author": "Rosalie Knecht",
+    "bookshopDotOrg": "https://bookshop.org/p/books/who-is-vera-kelly-rosalie-knecht/9739573",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781432853938-M.jpg",
+    "isbn": "1432853937",
+    "isbn13": "9781432853938",
+    "tags": ["lgbtq", "espionage", "historical-fiction"],
+    "title": "Who is Vera Kelly?"
+  },
+  {
+    "author": "Abby Collette",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-killer-sundae-abby-collette/16709386",
+    "coverSrc": "https://images.isbndb.com/covers/97/04/9780593099704.jpg",
+    "isbn": "0593099702",
+    "isbn13": "9780593099704",
+    "subtitle": "An Ice Cream Parlor Mystery",
+    "tags": ["cozy-mystery"],
+    "title": "A Killer Sundae"
+  },
+  {
+    "author": "Isaac Fitzgerald",
+    "bookshopDotOrg": "https://bookshop.org/p/books/dirtbag-massachusetts-a-confessional-isaac-fitzgerald/18778022",
+    "coverSrc": "https://covers.openlibrary.org/b/id/12856786-M.jpg",
+    "isbn": "1639731644",
+    "isbn13": "9781635573978",
+    "subtitle": "A Confessional",
+    "tags": ["memoir", "family-dynamics", "essays", "nonfiction"],
+    "title": "Dirtbag, Massachusetts"
+  },
+  {
+    "author": "Kelly Barnhill",
+    "bookshopDotOrg": "https://bookshop.org/p/books/when-women-were-dragons-kelly-barnhill/17408176",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780385548229-M.jpg",
+    "isbn": "0385548222",
+    "isbn13": "9780385548229",
+    "subtitle": "A Novel",
+    "tags": ["feminism", "sci-fi-fantasy", "lgbtq"],
+    "title": "When Women Were Dragons"
+  },
+  {
+    "author": "James Rebanks",
+    "bookshopDotOrg": "https://bookshop.org/p/books/pastoral-song-a-farmer-s-journey-james-rebanks/15060522",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780063073272-M.jpg",
+    "isbn": "0063073277",
+    "isbn13": "9780063073272",
+    "subtitle": "A Farmer’s Journey",
+    "tags": ["strong-sense-of-place", "memoir", "nonfiction", "politics"],
+    "title": "Pastoral Song"
+  },
+  {
+    "author": "Jane Pek",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-verifiers-jane-pek/18358579",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593313794-M.jpg",
+    "isbn": "0593313798",
+    "isbn13": "9780593313794",
+    "subtitle": "A Novel",
+    "tags": ["espionage", "lgbtq"],
+    "title": "The Verifiers"
+  },
+  {
+    "author": "Amor Towles",
+    "bookshopDotOrg": "https://bookshop.org/p/books/rules-of-civility-amor-towles/586139",
+    "coverSrc": "https://images.isbndb.com/covers/11/69/9780143121169.jpg",
+    "isbn": "0143121162",
+    "isbn13": "9780143121169",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "historical-fiction"],
+    "title": "Rules of Civility"
+  },
+  {
+    "author": "Tricia Hersey",
+    "bookshopDotOrg": "https://bookshop.org/p/books/rest-is-resistance-a-manifesto-tricia-hersey/18255493",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316365215-M.jpg",
+    "isbn": "0316365211",
+    "isbn13": "9780316365215",
+    "subtitle": "A Manifesto",
+    "tags": ["strongly-consider-reading", "politics", "nonfiction"],
+    "title": "Rest Is Resistance"
+  },
+  {
+    "author": "Kirstin Chen",
+    "bookshopDotOrg": "https://bookshop.org/p/books/counterfeit/18940245",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780063119543-M.jpg",
+    "isbn": "0063119544",
+    "isbn13": "9780063119543",
+    "tags": ["espionage", "friendship"],
+    "title": "Counterfeit"
+  },
+  {
+    "author": "Christina Lauren",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-unhoneymooners-christina-lauren/66823009781501128035",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781501128035-M.jpg",
+    "isbn": "1501128035",
+    "isbn13": "9781501128035",
+    "tags": ["humourous", "rom-com"],
+    "title": "The Unhoneymooners"
+  },
+  {
+    "author": "Peng Shepherd",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-cartographers-peng-shepherd/18732500",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062910691-M.jpg",
+    "isbn": "0062910698",
+    "isbn13": "9780062910691",
+    "subtitle": "A Novel",
+    "tags": [
+      "strong-sense-of-place",
+      "family-dynamics",
+      "strongly-consider-reading",
+      "urban-planning",
+      "sci-fi-fantasy"
+    ],
+    "title": "The Cartographers"
+  },
+  {
+    "author": "Hannah Gadsby",
+    "bookshopDotOrg": "https://bookshop.org/p/books/ten-steps-to-nanette-a-memoir-situation-hannah-gadsby/19433887",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984819802-M.jpg",
+    "isbn": "1984819801",
+    "isbn13": "9781984819802",
+    "subtitle": "A Memoir Situation",
+    "tags": ["humourous", "nonfiction", "memoir"],
+    "title": "Ten Steps to Nanette"
+  },
+  {
+    "author": "Shelby Van Pelt",
+    "bookshopDotOrg": "https://bookshop.org/p/books/remarkably-bright-creatures-shelby-van-pelt/18727240",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780063204157-M.jpg",
+    "isbn": "0063204150",
+    "isbn13": "9780063204157",
+    "subtitle": "A Novel",
+    "tags": ["friendship", "strong-sense-of-place", "family-dynamics"],
+    "title": "Remarkably Bright Creatures"
+  },
+  {
+    "author": "Cameron Esposito",
+    "bookshopDotOrg": "https://bookshop.org/p/books/save-yourself-cameron-esposito/14182621",
+    "coverSrc": "https://images.isbndb.com/covers/13/62/9781538701362.jpg",
+    "isbn": "1538701367",
+    "isbn13": "9781538701362",
+    "subtitle": "A Memoir",
+    "tags": ["memoir", "nonfiction", "lgbtq", "humourous"],
+    "title": "Save Yourself"
+  },
+  {
+    "author": "Jennifer Egan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781476716763-M.jpg",
+    "isbn": "1476716765",
+    "isbn13": "9781476716763",
+    "subtitle": "A Novel",
+    "tags": ["sci-fi-fantasy", "family-dynamics", "technology"],
+    "title": "The Candy House"
+  },
+  {
+    "author": "Andrew Sean Greer",
+    "bookshopDotOrg": "https://bookshop.org/p/books/less-is-lost-andrew-sean-greer/18055330",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316301398-M.jpg",
+    "isbn": "0316498912",
+    "isbn13": "9780316301398",
+    "tags": ["lgbtq", "humourous", "strong-sense-of-place", "pdx-book-fest"],
+    "title": "Less Is Lost"
+  },
+  {
+    "author": "Geraldine Brooks",
+    "bookshopDotOrg": "https://bookshop.org/p/books/horse-geraldine-brooks/17383440",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399562969-M.jpg",
+    "isbn": "0399562966",
+    "isbn13": "9780399562969",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "sports"],
+    "title": "Horse"
+  },
+  {
+    "author": "Sally Rooney",
+    "bookshopDotOrg": "https://bookshop.org/p/books/conversations-with-friends-sally-rooney/11167655",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780451499059-M.jpg",
+    "isbn": "0451499050",
+    "isbn13": "9780451499059",
+    "subtitle": "A Novel",
+    "tags": ["friendship", "lgbtq", "insufferable-characters"],
+    "title": "Conversations With Friends"
+  },
+  {
+    "author": "Jennifer Egan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780307477477-M.jpg",
+    "isbn": "0307477479",
+    "isbn13": "9780307477477",
+    "subtitle": "A Novel",
+    "tags": ["friendship", "technology", "family-dynamics"],
+    "title": "A Visit from the Goon Squad"
+  },
+  {
+    "author": "Oliver Burkeman",
+    "bookshopDotOrg": "https://bookshop.org/p/books/four-thousand-weeks-time-management-for-mortals-oliver-burkeman/18140090",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250849359-M.jpg",
+    "isbn": "1250849357",
+    "isbn13": "9781250849359",
+    "subtitle": "Time Management for Mortals",
+    "tags": ["nonfiction"],
+    "title": "Four Thousand Weeks"
+  },
+  {
+    "author": "Bernardine Evaristo",
+    "bookshopDotOrg": "https://bookshop.org/p/books/girl-woman-other-bernardine-evaristo/18279672",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780802156983-M.jpg",
+    "isbn": "0802156983",
+    "isbn13": "9780802156983",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "strong-sense-of-place", "family-dynamics"],
+    "title": "Girl, Woman, Other"
+  },
+  {
+    "author": "Kim Stanley Robinson",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-ministry-for-the-future-kim-stanley-robinson/14532414",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316300148-M.jpg",
+    "isbn": "0316300144",
+    "isbn13": "9780316300148",
+    "tags": ["sci-fi-fantasy", "politics", "technology"],
+    "title": "The Ministry of the Future"
+  },
+  {
+    "author": "Tj Klune",
+    "bookshopDotOrg": "https://bookshop.org/p/books/under-the-whispering-door-tj-klune/14596712",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250217394-M.jpg",
+    "isbn": "1250217393",
+    "isbn13": "9781250217394",
+    "tags": ["sci-fi-fantasy", "lgbtq", "humourous"],
+    "title": "Under the Whispering Door"
+  },
+  {
+    "author": "Amy Feltman",
+    "bookshopDotOrg": "https://bookshop.org/p/books/all-the-things-we-don-t-talk-about-amy-feltman/18493490",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781538704738-M.jpg",
+    "isbn": "1538704730",
+    "isbn13": "9781538704738",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "family-dynamics"],
+    "title": "All The Things We Don’t Talk About"
+  },
+  {
+    "author": "Michael Schur",
+    "bookshopDotOrg": "https://bookshop.org/p/books/how-to-be-perfect-the-correct-answer-to-every-moral-question-michael-schur/17494407",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781982159313-M.jpg",
+    "isbn": "1982159316",
+    "isbn13": "9781982159313",
+    "subtitle": "The Correct Answer to Every Moral Question",
+    "tags": ["nonfiction", "humourous"],
+    "title": "How to Be Perfect"
+  },
+  {
+    "author": "Nina Lacour",
+    "bookshopDotOrg": "https://bookshop.org/p/books/yerba-buena-nina-lacour/18721506",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781399701778-M.jpg",
+    "isbn": "1250810515",
+    "isbn13": "9781399701778",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "romance"],
+    "title": "Yerba Buena"
+  },
+  {
+    "author": "Walter Tevis",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-queen-s-gambit-walter-tevis/7825056",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781400030606-M.jpg",
+    "isbn": "1400030609",
+    "isbn13": "9781400030606",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "sports"],
+    "title": "The Queen’s Gambit"
+  },
+  {
+    "author": "Sonora Reyes",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-lesbiana-s-guide-to-catholic-school-sonora-reyes/18727177",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780063060234-M.jpg",
+    "isbn": "006306023X",
+    "isbn13": "9780063060234",
+    "tags": ["lgbtq", "family-dynamics", "romance", "ya", "coming-of-age"],
+    "title": "The Lesbiana’s Guide to Catholic School"
+  },
+  {
+    "author": "Naoise Dolan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/exciting-times-naoise-dolan/14818086",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062968746-M.jpg",
+    "isbn": "0062968750",
+    "isbn13": "9780062968746",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq"],
+    "title": "Exciting Times"
+  },
+  {
+    "author": "Casey McQuiston",
+    "bookshopDotOrg": "https://bookshop.org/p/books/i-kissed-shara-wheeler-casey-mcquiston/17396031",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250244451-M.jpg",
+    "isbn": "1250244455",
+    "isbn13": "9781250244451",
+    "subtitle": "A Novel",
+    "tags": [
+      "ya",
+      "lgbtq",
+      "rom-com",
+      "humourous",
+      "pdx-book-fest",
+      "coming-of-age"
+    ],
+    "title": "I Kissed Shara Wheeler"
+  },
+  {
+    "author": "Tj Klune",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-house-in-the-cerulean-sea-klune-tj/9881851",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250217288-M.jpg",
+    "isbn": "1250217288",
+    "isbn13": "9781250217288",
+    "tags": ["sci-fi-fantasy", "lgbtq", "humourous", "romance"],
+    "title": "The House in the Cerulean Sea"
+  },
+  {
+    "author": "Bonnie Garmus",
+    "bookshopDotOrg": "https://bookshop.org/p/books/lessons-in-chemistry-bonnie-garmus/19638865",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780385547345-M.jpg",
+    "isbn": "038554734X",
+    "isbn13": "9780385547345",
+    "tags": ["historical-fiction", "feminism"],
+    "title": "Lessons in Chemistry"
+  },
+  {
+    "author": "Ash Davidson",
+    "bookshopDotOrg": "https://bookshop.org/p/books/damnation-spring-ash-davidson/18213017",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781982144425-M.jpg",
+    "isbn": "1982144416",
+    "isbn13": "9781982144425",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "pdx-book-fest", "family-dynamics"],
+    "title": "Damnation Spring"
+  },
+  {
+    "author": "Taylor Jenkins Reid",
+    "bookshopDotOrg": "https://bookshop.org/p/books/malibu-rising-taylor-jenkins-reid/18211007",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781524798659-M.jpg",
+    "isbn": "1524798657",
+    "isbn13": "9781524798659",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "family-dynamics"],
+    "title": "Malibu Rising"
+  },
+  {
+    "author": "Charles Yu",
+    "bookshopDotOrg": "https://bookshop.org/p/books/interior-chinatown-charles-yu/14725126",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780307948472-M.jpg",
+    "isbn": "0307948471",
+    "isbn13": "9780307948472",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "family-dynamics", "creative-liberties"],
+    "title": "Interior Chinatown"
+  },
+  {
+    "author": "Yaa Gyasi",
+    "bookshopDotOrg": "https://bookshop.org/p/books/transcendent-kingdom-yaa-gyasi/13577049",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984899767-M.jpg",
+    "isbn": "1984899767",
+    "isbn13": "9781984899767",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics"],
+    "title": "Transcendent Kingdom"
+  },
+  {
+    "author": "Michael Pollan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/this-is-your-mind-on-plants-michael-pollan/17210563",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780241519264-M.jpg",
+    "isbn": "0593296923",
+    "isbn13": "9780241519264",
+    "tags": ["nonfiction"],
+    "title": "This Is Your Mind on Plants"
+  },
+  {
+    "author": "Huma Abedin",
+    "bookshopDotOrg": "https://bookshop.org/p/books/both-and-a-memoir-huma-abedin/17407341",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781501194801-M.jpg",
+    "isbn": "1501194801",
+    "isbn13": "9781501194801",
+    "subtitle": "A Memoir",
+    "tags": ["memoir", "nonfiction", "politics", "feminism"],
+    "title": "Both/And"
+  },
+  {
+    "author": "Betina González",
+    "bookshopDotOrg": "https://bookshop.org/p/books/american-delirium-betina-gonzalez/16870496",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250621283-M.jpg",
+    "isbn": "1250621283",
+    "isbn13": "9781250621283",
+    "subtitle": "A Novel",
+    "tags": ["in-translation", "creative-liberties"],
+    "title": "American Delirium"
+  },
+  {
+    "author": "Jasmine Guillory",
+    "bookshopDotOrg": "https://bookshop.org/p/books/party-of-two-jasmine-guillory/13341358",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593100813-M.jpg",
+    "isbn": "0593100816",
+    "isbn13": "9780593100813",
+    "tags": ["rom-com"],
+    "title": "Party of Two"
+  },
+  {
+    "author": "Mia P. Manansala",
+    "bookshopDotOrg": "https://bookshop.org/p/books/arsenic-and-adobo-mia-p-manansala/15284327",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593201671-M.jpg",
+    "isbn": "0593201671",
+    "isbn13": "9780593201671",
+    "subtitle": "A Tita Rosie’s Kitchen Mystery",
+    "tags": ["cozy-mystery"],
+    "title": "Arsenic and Adobo"
+  },
+  {
+    "author": "Taylor Jenkins Reid",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-seven-husbands-of-evelyn-hugo-taylor-jenkins-reid/6762842",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781501139246-M.jpg",
+    "isbn": "150113924X",
+    "isbn13": "9781501139246",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "historical-fiction"],
+    "title": "The Seven Husbands of Evelyn Hugo"
+  },
+  {
+    "author": "Pamela Paul",
+    "bookshopDotOrg": "https://bookshop.org/p/books/100-things-we-ve-lost-to-the-internet-pamela-paul/16131812",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593136775-M.jpg",
+    "isbn": "0593136772",
+    "isbn13": "9780593136775",
+    "tags": ["nonfiction", "technology", "essays"],
+    "title": "100 Things We’ve Lost to the Internet"
+  },
+  {
+    "author": "Anne Helen Petersen and Charlie Warzel",
+    "bookshopDotOrg": "https://bookshop.org/p/books/out-of-office-the-big-problem-and-bigger-promise-of-working-from-home-anne-helen-petersen/16467530",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593320099-M.jpg",
+    "isbn": "0593320093",
+    "isbn13": "9780593320099",
+    "subtitle": "The Big Problem and Bigger Promise of Working from Home",
+    "tags": ["nonfiction"],
+    "title": "Out of Office"
+  },
+  {
+    "author": "Steven Rowley",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-guncle-steven-rowley/16519843",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780525542285-M.jpg",
+    "isbn": "0525542280",
+    "isbn13": "9780525542285",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "family-dynamics", "humourous"],
+    "title": "The Guncle"
+  },
+  {
+    "author": "Adam Grant",
+    "bookshopDotOrg": "https://bookshop.org/p/books/think-again-the-power-of-knowing-what-you-don-t-know-adam-grant/15174400",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984878106-M.jpg",
+    "isbn": "1984878107",
+    "isbn13": "9781984878106",
+    "subtitle": "The Power of Knowing What You Don’t Know",
+    "tags": ["nonfiction"],
+    "title": "Think Again"
+  },
+  {
+    "author": "Frankie de la Cretaz and Lyndsey D’Arcangelo",
+    "bookshopDotOrg": "https://bookshop.org/p/books/hail-mary-the-rise-and-fall-of-the-national-women-s-football-league-lyndsey-d-arcangelo/17761976",
+    "coverSrc": "https://images.isbndb.com/covers/66/23/9781645036623.jpg",
+    "isbn": "1645036626",
+    "isbn13": "9781645036623",
+    "subtitle": "The Rise and Fall of the National Women’s Football League",
+    "tags": ["sports", "nonfiction", "lgbtq"],
+    "title": "Hail Mary"
+  },
+  {
+    "author": "Cathy Park Hong",
+    "bookshopDotOrg": "https://bookshop.org/p/books/minor-feelings-an-asian-american-reckoning-cathy-park-hong/9574159",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984820389-M.jpg",
+    "isbn": "1984820389",
+    "isbn13": "9781984820389",
+    "subtitle": "An Asian American Reckoning",
+    "tags": ["nonfiction", "essays", "memoir"],
+    "title": "Minor Feelings"
+  },
+  {
+    "author": "Michael Bungay Stanier",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-coaching-habit-say-less-ask-more-change-the-way-you-lead-forever-michael-bungay-stanier/17315881",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780978440749-M.jpg",
+    "isbn": "0978440749",
+    "isbn13": "9780978440749",
+    "subtitle": "Say Less, Ask More & Change the Way You Lead Forever",
+    "tags": ["nonfiction"],
+    "title": "The Coaching Habit"
+  },
+  {
+    "author": "Tanja Hester",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wallet-activism-how-to-use-every-dollar-you-spend-earn-and-save-as-a-force-for-change-tanja-hester/17142584",
+    "coverSrc": "https://images.isbndb.com/covers/55/90/9781953295590.jpg",
+    "isbn": "1953295592",
+    "isbn13": "9781953295590",
+    "subtitle": "How to Use Every Dollar You Spend, Earn, and Save as a Force for Change",
+    "tags": ["nonfiction"],
+    "title": "Wallet Activism"
+  },
+  {
+    "author": "Julie Zhuo",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you-julie-zhuo/12476618",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780735219564-M.jpg",
+    "isbn": "0735219567",
+    "isbn13": "9780735219564",
+    "subtitle": "What to Do When Everyone Looks to You",
+    "tags": ["nonfiction"],
+    "title": "The Making of a Manager"
+  },
+  {
+    "author": "Brené Brown",
+    "bookshopDotOrg": "https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17210802",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399592553-M.jpg",
+    "isbn": "0399592555",
+    "isbn13": "9780399592553",
+    "subtitle": "Mapping Meaningful Connection and the Language of Human Experience",
+    "tags": ["nonfiction"],
+    "title": "Atlas of the Heart"
+  },
+  {
+    "author": "Luke Healy",
+    "bookshopDotOrg": "https://bookshop.org/p/books/americana-and-the-act-of-getting-over-it-luke-healy/277274",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781910620618-M.jpg",
+    "isbn": "1910620610",
+    "isbn13": "9781910620618",
+    "subtitle": "And The Act Of Getting Over It.",
+    "tags": [
+      "graphic-novel",
+      "sports",
+      "memoir",
+      "nonfiction",
+      "strong-sense-of-place"
+    ],
+    "title": "Americana"
+  },
+  {
+    "author": "Kris Ripper",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781335943194-M.jpg",
+    "isbn": "1335943196",
+    "isbn13": "9781335943194",
+    "subtitle": "The Love Study #1",
+    "tags": ["lgbtq", "rom-com"],
+    "title": "The Love Study"
+  }
+]

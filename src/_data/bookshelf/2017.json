@@ -1,0 +1,506 @@
+[
+  {
+    "author": "Margaret Atwood",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-handmaid-s-tale-margaret-atwood/7333453",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781784871444-M.jpg",
+    "isbn": "038549081X",
+    "isbn13": "9781784871444",
+    "tags": [],
+    "title": "The Handmaid’s Tale"
+  },
+  {
+    "author": "Maria Qamar",
+    "bookshopDotOrg": "https://bookshop.org/p/books/trust-no-aunty-maria-qamar/6774856",
+    "coverSrc": "https://images.isbndb.com/covers/47/37/9781501154737.jpg",
+    "isbn": "1501154737",
+    "isbn13": "9781501154737",
+    "tags": ["humourous", "graphic-novel", "nonfiction", "memoir"],
+    "title": "Trust No Aunty"
+  },
+  {
+    "author": "Eleanor Davis",
+    "bookshopDotOrg": "https://bookshop.org/p/books/you-a-bike-a-road-eleanor-davis/202650369781683969419",
+    "coverSrc": "https://images.isbndb.com/covers/84/05/9781927668405.jpg",
+    "isbn": "1927668409",
+    "isbn13": "9781927668405",
+    "tags": ["sports", "graphic-novel", "memoir", "nonfiction"],
+    "title": "You & a bike & a road"
+  },
+  {
+    "author": "Elizabeth Kolbert",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/8424309",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250062185-M.jpg",
+    "isbn": "1250062187",
+    "isbn13": "9781250062185",
+    "subtitle": "An Unnatural History",
+    "tags": ["nonfiction"],
+    "title": "The Sixth Extinction"
+  },
+  {
+    "author": "Renée Watson",
+    "bookshopDotOrg": "https://bookshop.org/p/books/piecing-me-together-renee-watson/6392542",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781681191072-M.jpg",
+    "isbn": "1681191075",
+    "isbn13": "9781681191072",
+    "tags": ["ya", "strong-sense-of-place", "pdx-book-fest"],
+    "title": "Piecing Me Together"
+  },
+  {
+    "author": "Fredrik Backman",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-man-called-ove-fredrik-backman/586402",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781476738024-M.jpg",
+    "isbn": "1476738025",
+    "isbn13": "9781476738024",
+    "subtitle": "A Novel",
+    "tags": ["in-translation"],
+    "title": "A Man Called Ove"
+  },
+  {
+    "author": "Tillie Walden",
+    "bookshopDotOrg": "https://bookshop.org/p/books/spinning-tillie-walden/7357932",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781626729407-M.jpg",
+    "isbn": "1626729409",
+    "isbn13": "9781626729407",
+    "tags": [
+      "sports",
+      "graphic-novel",
+      "lgbtq",
+      "memoir",
+      "nonfiction",
+      "pdx-book-fest"
+    ],
+    "title": "Spinning"
+  },
+  {
+    "author": "Emily Ruskovich",
+    "bookshopDotOrg": "https://bookshop.org/p/books/idaho-emily-ruskovich/11739220",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9789750844157-M.jpg",
+    "isbn": "0812984463",
+    "isbn13": "9789750844157",
+    "tags": [],
+    "title": "Idaho"
+  },
+  {
+    "author": "Margaret Atwood",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-tent-margaret-atwood/7866328",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781400097012-M.jpg",
+    "isbn": "1400097010",
+    "isbn13": "9781400097012",
+    "tags": [],
+    "title": "The Tent"
+  },
+  {
+    "author": "Ta-Nehisi Coates",
+    "bookshopDotOrg": "https://bookshop.org/p/books/we-were-eight-years-in-power-an-american-tragedy-ta-nehisi-coates/11376745",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780241325230-M.jpg",
+    "isbn": "0399590579",
+    "isbn13": "9780241325230",
+    "subtitle": "An American Tragedy",
+    "tags": ["pdx-book-fest", "essays", "nonfiction", "politics"],
+    "title": "We Were Eight Years in Power"
+  },
+  {
+    "author": "Hillary Rodham Clinton",
+    "bookshopDotOrg": "https://bookshop.org/p/books/what-happened-hillary-rodham-clinton/6698333",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781501178405-M.jpg",
+    "isbn": "1501178407",
+    "isbn13": "9781501178405",
+    "tags": [],
+    "title": "What Happened"
+  },
+  {
+    "author": "Hannah Tinti",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-twelve-lives-of-samuel-hawley-hannah-tinti/15553632",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399591228-M.jpg",
+    "isbn": "0812989902",
+    "isbn13": "9780399591228",
+    "tags": [],
+    "title": "The Twelve Lives of Samuel Hawley"
+  },
+  {
+    "author": "Matthew Desmond",
+    "bookshopDotOrg": "https://bookshop.org/p/books/evicted-poverty-and-profit-in-the-american-city-matthew-desmond/7485074",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780553447453-M.jpg",
+    "isbn": "0553447459",
+    "isbn13": "9780553447453",
+    "subtitle": "Poverty and Profit in the American City",
+    "tags": [],
+    "title": "Evicted"
+  },
+  {
+    "author": "Eleanor Catton",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-luminaries-eleanor-catton/15557847",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316074292-M.jpg",
+    "isbn": "0316074292",
+    "isbn13": "9780316074292",
+    "tags": [],
+    "title": "The Luminaries"
+  },
+  {
+    "author": "Harper Lee",
+    "bookshopDotOrg": "https://bookshop.org/p/books/go-set-a-watchman-harper-lee/14691902",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062409867-M.jpg",
+    "isbn": "0062409867",
+    "isbn13": "9780062409867",
+    "tags": [],
+    "title": "Go Set a Watchman"
+  },
+  {
+    "author": "Jessica Bruder",
+    "bookshopDotOrg": "https://bookshop.org/p/books/nomadland-surviving-america-in-the-twenty-first-century-jessica-bruder/8774003",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780393356311-M.jpg",
+    "isbn": "0393356310",
+    "isbn13": "9780393356311",
+    "subtitle": "Surviving America in the Twenty-first Century",
+    "tags": [],
+    "title": "Nomadland"
+  },
+  {
+    "author": "Ibi Zoboi",
+    "bookshopDotOrg": "https://bookshop.org/p/books/american-street-ibi-zoboi/6437985",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062473059-M.jpg",
+    "isbn": "0062473042",
+    "isbn13": "9780062473059",
+    "tags": ["ya", "magical-realism"],
+    "title": "American Street"
+  },
+  {
+    "author": "Chris Hayes",
+    "bookshopDotOrg": "https://bookshop.org/p/books/twilight-of-the-elites-america-after-meritocracy-chris-hayes/8785445",
+    "coverSrc": "https://images.isbndb.com/covers/04/67/9780307720467.jpg",
+    "isbn": "0307720462",
+    "isbn13": "9780307720467",
+    "subtitle": "America After Meritocracy",
+    "tags": ["nonfiction", "politics"],
+    "title": "Twilight of the Elites"
+  },
+  {
+    "author": "Jhumpa Lahiri",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-namesake-jhumpa-lahiri/11782004",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780358062684-M.jpg",
+    "isbn": "0358062683",
+    "isbn13": "9780358062684",
+    "tags": ["saga", "coming-of-age"],
+    "title": "The Namesake"
+  },
+  {
+    "author": "Ta-Nehisi Coates",
+    "bookshopDotOrg": "https://bookshop.org/p/books/between-the-world-and-me-ta-nehisi-coates/7372138",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780812993547-M.jpg",
+    "isbn": "0812993543",
+    "isbn13": "9780812993547",
+    "tags": [],
+    "title": "Between the World and Me"
+  },
+  {
+    "author": "Jhumpa Lahiri",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-lowland-jhumpa-lahiri/15542110",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780307278265-M.jpg",
+    "isbn": "9780307278265",
+    "isbn13": "9780307278265",
+    "tags": ["saga", "family-dynamics"],
+    "title": "The Lowland"
+  },
+  {
+    "author": "Ayọ̀bámi Adébáyọ̀",
+    "bookshopDotOrg": "https://bookshop.org/p/books/stay-with-me-ayobami-adebayo/8613475",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101974414-M.jpg",
+    "isbn": "1101974419",
+    "isbn13": "9781101974414",
+    "tags": [],
+    "title": "Stay with Me"
+  },
+  {
+    "author": "Katie Kitamura",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-separation-katie-kitamura/9699238",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399576119-M.jpg",
+    "isbn": "0399576118",
+    "isbn13": "9780399576119",
+    "tags": [],
+    "title": "A Separation"
+  },
+  {
+    "author": "Jhumpa Lahiri",
+    "bookshopDotOrg": "https://bookshop.org/p/books/interpreter-of-maladies-with-headphones-jhumpa-lahiri/15540131",
+    "coverSrc": "https://images.isbndb.com/covers/72/05/9780395927205.jpg",
+    "isbn": "0358213266",
+    "isbn13": "9780395927205",
+    "tags": [],
+    "title": "Interpreter of Maladies"
+  },
+  {
+    "author": "Gwendolyn Oxenham",
+    "bookshopDotOrg": "https://bookshop.org/p/books/under-the-lights-and-in-the-dark-untold-stories-of-women-s-soccer-gwendolyn-oxenham/9936023",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781785781537-M.jpg",
+    "isbn": "178578319X",
+    "isbn13": "9781785781537",
+    "subtitle": "Untold Stories of Women’s Soccer",
+    "tags": [],
+    "title": "Under the Lights and in the Dark"
+  },
+  {
+    "author": "Zinzi Clemmons",
+    "bookshopDotOrg": "https://bookshop.org/p/books/what-we-lose-zinzi-clemmons/12265940",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780735221734-M.jpg",
+    "isbn": "0735221731",
+    "isbn13": "9780735221734",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "What We Lose"
+  },
+  {
+    "author": "Chris Hayes",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-colony-in-a-nation-chris-hayes/8774839",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780393355420-M.jpg",
+    "isbn": "9780393355420",
+    "isbn13": "9780393355420",
+    "tags": [],
+    "title": "A Colony in a Nation"
+  },
+  {
+    "author": "Ann Patchett",
+    "bookshopDotOrg": "https://bookshop.org/p/books/commonwealth-ann-patchett/6782769",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062491831-M.jpg",
+    "isbn": "0062491830",
+    "isbn13": "9780062491831",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "Commonwealth"
+  },
+  {
+    "author": "Terry Glavin",
+    "bookshopDotOrg": "",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780312362317-M.jpg",
+    "isbn": "1466873582",
+    "isbn13": "9780312362317",
+    "subtitle": "Journeys Among the Lost and Left Behind",
+    "tags": [],
+    "title": "The Sixth Extinction"
+  },
+  {
+    "author": "Ali Smith",
+    "bookshopDotOrg": "https://bookshop.org/p/books/autumn-ali-smith/8569690",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101969946-M.jpg",
+    "isbn": "1101969946",
+    "isbn13": "9781101969946",
+    "subtitle": "A Novel (Seasonal Quartet)",
+    "tags": [],
+    "title": "Autumn"
+  },
+  {
+    "author": "Emily Fridlund",
+    "bookshopDotOrg": "https://bookshop.org/p/books/history-of-wolves-emily-fridlund/7467434",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780802127389-M.jpg",
+    "isbn": "080212738X",
+    "isbn13": "9780802127389",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "History of Wolves"
+  },
+  {
+    "author": "Fiona Mozlev",
+    "bookshopDotOrg": "https://bookshop.org/p/books/elmet-fiona-mozley/15278153",
+    "coverSrc": "https://images.isbndb.com/covers/84/24/9781616208424.jpg",
+    "isbn": "1616208422",
+    "isbn13": "9781616208424",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "Elmet"
+  },
+  {
+    "author": "Han Kang",
+    "bookshopDotOrg": "https://bookshop.org/p/books/human-acts-han-kang/7989873",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101906743-M.jpg",
+    "isbn": "110190674X",
+    "isbn13": "9781101906743",
+    "subtitle": "A Novel",
+    "tags": ["in-translation"],
+    "title": "Human Acts"
+  },
+  {
+    "author": "Han Kang",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-vegetarian-han-kang/7989906",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101906118-M.jpg",
+    "isbn": "1101906111",
+    "isbn13": "9781101906118",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics", "creative-liberties", "in-translation"],
+    "title": "The Vegetarian"
+  },
+  {
+    "author": "Roberta Brandes Gratz",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-battle-for-gotham-new-york-in-the-shadow-of-robert-moses-and-jane-jacobs-roberta-brandes-gratz/16437450",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781568586786-M.jpg",
+    "isbn": "1568586787",
+    "isbn13": "9781568586786",
+    "subtitle": "New York in the Shadow of Robert Moses and Jane Jacobs",
+    "tags": [],
+    "title": "The Battle for Gotham"
+  },
+  {
+    "author": "John Darnielle",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wolf-in-white-van-john-darnielle/8446797",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250074713-M.jpg",
+    "isbn": "1250074711",
+    "isbn13": "9781250074713",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "Wolf in White Van"
+  },
+  {
+    "author": "Katherine Dunn",
+    "bookshopDotOrg": "https://bookshop.org/p/books/geek-love-katherine-dunn/8517251",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780375713347-M.jpg",
+    "isbn": "0375713344",
+    "isbn13": "9780375713347",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "Geek Love"
+  },
+  {
+    "author": "Mark Kurlansky",
+    "bookshopDotOrg": "https://bookshop.org/p/books/salt-a-world-history-mark-kurlansky/15546739",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780142001615-M.jpg",
+    "isbn": "0142001619",
+    "isbn13": "9780142001615",
+    "subtitle": "A World History",
+    "tags": [],
+    "title": "Salt"
+  },
+  {
+    "author": "Colson Whitehead",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-underground-railroad-colson-whitehead/7280984",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780345804327-M.jpg",
+    "isbn": "0345804325",
+    "isbn13": "9780345804327",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "The Underground Railroad"
+  },
+  {
+    "author": "Stephanie Danler",
+    "bookshopDotOrg": "https://bookshop.org/p/books/sweetbitter-stephanie-danler/7350711",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101911860-M.jpg",
+    "isbn": "1101911867",
+    "isbn13": "9781101911860",
+    "tags": [],
+    "title": "Sweetbitter"
+  },
+  {
+    "author": "George R. R. Martin",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-feast-for-crows-a-song-of-ice-and-fire-book-four-george-r-r-martin/7326489",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780553582031-M.jpg",
+    "isbn": "0553582038",
+    "isbn13": "9780553582031",
+    "subtitle": "A Song of Ice and Fire: Book Four",
+    "tags": ["saga", "sci-fi-fantasy"],
+    "title": "A Feast for Crows"
+  },
+  {
+    "author": "Paul Beatty",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-sellout-paul-beatty/7419862",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780374260507-M.jpg",
+    "isbn": "1250808243",
+    "isbn13": "9780374260507",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "The Sellout"
+  },
+  {
+    "author": "Andrew Blum",
+    "bookshopDotOrg": "https://bookshop.org/p/books/tubes-a-journey-to-the-center-of-the-internet-with-a-new-introduction-by-the-author-andrew-blum/6864400",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062850300-M.jpg",
+    "isbn": "006285030X",
+    "isbn13": "9780062850300",
+    "subtitle": "A Journey to the Center of the Internet",
+    "tags": [],
+    "title": "Tubes"
+  },
+  {
+    "author": "Terry Tempest Williams",
+    "bookshopDotOrg": "https://bookshop.org/p/books/when-women-were-birds-fifty-four-variations-on-voice-terry-tempest-williams/8372563",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250024114-M.jpg",
+    "isbn": "1250024110",
+    "isbn13": "9781250024114",
+    "subtitle": "Fifty-four Variations on Voice",
+    "tags": [],
+    "title": "When Women Were Birds"
+  },
+  {
+    "author": "Brit Bennett",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-mothers-brit-bennett/10206851",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399184529-M.jpg",
+    "isbn": "039918452X",
+    "isbn13": "9780399184529",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "The Mothers"
+  },
+  {
+    "author": "Hope Jahren",
+    "bookshopDotOrg": "https://bookshop.org/p/books/lab-girl-hope-jahren/7375725",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101873724-M.jpg",
+    "isbn": "1101873728",
+    "isbn13": "9781101873724",
+    "tags": [],
+    "title": "Lab Girl"
+  },
+  {
+    "author": "Yaa Gyasi",
+    "bookshopDotOrg": "https://bookshop.org/p/books/homegoing-yaa-gyasi/16339347",
+    "coverSrc": "https://images.isbndb.com/covers/10/62/9781101971062.jpg",
+    "isbn": "1101971061",
+    "isbn13": "9781101947135",
+    "subtitle": "A Novel",
+    "tags": ["saga", "historical-fiction"],
+    "title": "Homegoing"
+  },
+  {
+    "author": "George R. R. Martin",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-storm-of-swords-george-r-r-martin/265945",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780553381702-M.jpg",
+    "isbn": "0553381709",
+    "isbn13": "9780553381702",
+    "subtitle": "A Song of Ice and Fire: Book Three",
+    "tags": ["saga", "sci-fi-fantasy"],
+    "title": "A Storm of Swords"
+  },
+  {
+    "author": "Harper Lee",
+    "bookshopDotOrg": "https://bookshop.org/p/books/to-kill-a-mockingbird-harper-lee/266047",
+    "coverSrc": "https://images.isbndb.com/covers/54/67/9780060935467.jpg",
+    "isbn": "0060935464",
+    "isbn13": "9780060935467",
+    "tags": [],
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "author": "Jesse Ball",
+    "bookshopDotOrg": "https://bookshop.org/p/books/how-to-set-a-fire-and-why-jesse-ball/8588233",
+    "coverSrc": "https://images.isbndb.com/covers/17/54/9781101911754.jpg",
+    "isbn": "1101870575",
+    "isbn13": "9781101911754",
+    "tags": [],
+    "title": "How to Set Fire and Why"
+  },
+  {
+    "author": "Chimamanda Ngozi Adichie",
+    "bookshopDotOrg": "https://bookshop.org/p/books/americanah-chimamanda-ngozi-adichie/586378",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780307397928-M.jpg",
+    "isbn": "0307455920",
+    "isbn13": "9780307397928",
+    "subtitle": "A Novel",
+    "tags": [],
+    "title": "Americanah"
+  },
+  {
+    "author": "Zadie Smith",
+    "bookshopDotOrg": "https://bookshop.org/p/books/swing-time-zadie-smith/15277596",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780143111641-M.jpg",
+    "isbn": "0143111647",
+    "isbn13": "9780143111641",
+    "subtitle": "A Novel",
+    "tags": ["saga", "friendship"],
+    "title": "Swing Time"
+  }
+]

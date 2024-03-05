@@ -15,14 +15,22 @@ const updateTotals = () => {
   });
 };
 
-document.addEventListener("click", (e) => {
-  if (!e.target.matches(clearButtonSelector)) return;
-  e.preventDefault();
-
+const clearSelection = () => {
   tags.forEach((tag) => (tag.checked = false));
   clearButton.classList.add("hidden");
   books.forEach((book) => book.classList.remove("hidden"));
   updateTotals();
+};
+
+document.addEventListener("click", (e) => {
+  if (!e.target.matches(clearButtonSelector)) return;
+  e.preventDefault();
+  clearSelection();
+});
+
+document.addEventListener("touchend", (e) => {
+  if (!e.target.matches(clearButtonSelector)) return;
+  clearSelection();
 });
 
 form.addEventListener("change", () => {

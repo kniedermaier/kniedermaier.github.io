@@ -1,0 +1,311 @@
+[
+  {
+    "author": "Jasmine Guillory",
+    "bookshopDotOrg": "https://bookshop.org/p/books/while-we-were-dating-jasmine-guillory/17320170",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593100851-M.jpg",
+    "isbn": "0593100859",
+    "isbn13": "9780593100851",
+    "tags": ["rom-com", "pdx-book-fest"],
+    "title": "While We Were Dating"
+  },
+  {
+    "author": "Casey McQuiston",
+    "bookshopDotOrg": "https://bookshop.org/p/books/red-white-royal-blue/18839469",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250316776-M.jpg",
+    "isbn": "1250316774",
+    "isbn13": "9781250316776",
+    "subtitle": "A Novel",
+    "tags": ["rom-com", "humourous", "lgbtq", "pdx-book-fest", "coming-of-age"],
+    "title": "Red, White & Royal Blue"
+  },
+  {
+    "author": "Tanja Hester",
+    "bookshopDotOrg": "https://bookshop.org/p/books/work-optional-retire-early-the-non-penny-pinching-way-tanja-hester/113389",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316450898-M.jpg",
+    "isbn": "0316450898",
+    "isbn13": "9780316450898",
+    "subtitle": "Retire Early the Non-Penny-Pinching Way",
+    "tags": ["nonfiction"],
+    "title": "Work Optional"
+  },
+  {
+    "author": "Laura McKowen",
+    "bookshopDotOrg": "https://bookshop.org/p/books/we-are-the-luckiest-the-surprising-magic-of-a-sober-life-laura-mckowen/10954143",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781608687862-M.jpg",
+    "isbn": "1608687864",
+    "isbn13": "9781608687862",
+    "subtitle": "The Surprising Magic of a Sober Life",
+    "tags": ["memoir", "nonfiction"],
+    "title": "We Are The Luckiest"
+  },
+  {
+    "author": "Jennet Alexander",
+    "bookshopDotOrg": "https://bookshop.org/p/books/i-kissed-a-girl-jennet-alexander/16530266",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781728222707-M.jpg",
+    "isbn": "1728222702",
+    "isbn13": "9781728222707",
+    "tags": ["rom-com", "lgbtq"],
+    "title": "I Kissed A Girl"
+  },
+  {
+    "author": "Frederick Smith and Chaz Lamar Cruz",
+    "bookshopDotOrg": "https://bookshop.org/p/books/busy-ain-t-the-half-of-it-frederick-smith/17264232",
+    "coverSrc": "https://images.isbndb.com/covers/94/46/9781635559446.jpg",
+    "isbn": "1635559448",
+    "isbn13": "9781635559446",
+    "tags": ["rom-com", "lgbtq", "coming-of-age"],
+    "title": "Busy Ain’t the Half of It"
+  },
+  {
+    "author": "Fiona Zedde",
+    "bookshopDotOrg": "https://bookshop.org/p/books/house-of-agnes-fiona-zedde/17094320",
+    "coverSrc": "https://images.isbndb.com/covers/50/22/9783963245022.jpg",
+    "isbn": "3963245026",
+    "isbn13": "9783963245022",
+    "tags": ["romance", "lgbtq"],
+    "title": "House of Agnes"
+  },
+  {
+    "author": "Lauren Groff",
+    "bookshopDotOrg": "https://bookshop.org/p/books/matrix-lauren-groff/16278801",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781594634499-M.jpg",
+    "isbn": "1594634491",
+    "isbn13": "9781594634499",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "pdx-book-fest"],
+    "title": "Matrix"
+  },
+  {
+    "author": "Jonny Sun",
+    "bookshopDotOrg": "https://bookshop.org/p/books/goodbye-again-essays-reflections-and-illustrations-jonny-sun/15879562",
+    "coverSrc": "https://images.isbndb.com/covers/08/57/9780062880857.jpg",
+    "isbn": "0062880853",
+    "isbn13": "9780062880857",
+    "subtitle": "Essays, Reflections, and Illustrations",
+    "tags": ["essays", "nonfiction", "memoir"],
+    "title": "Goodbye, Again"
+  },
+  {
+    "author": "Barack Obama",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-promised-land-barack-obama/15178164",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781524763169-M.jpg",
+    "isbn": "1524763160",
+    "isbn13": "9781524763169",
+    "tags": ["memoir", "nonfiction", "politics"],
+    "title": "A Promised Land"
+  },
+  {
+    "author": "Celeste Castro",
+    "bookshopDotOrg": "https://bookshop.org/p/books/prize-money-celeste-castro/15021474",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781951954031-M.jpg",
+    "isbn": "1951954033",
+    "isbn13": "9781951954031",
+    "tags": ["lgbtq", "romance", "sports"],
+    "title": "Prize Money"
+  },
+  {
+    "author": "Kristi Coulter",
+    "bookshopDotOrg": "https://bookshop.org/p/books/nothing-good-can-come-from-this-essays-kristi-coulter/8988525",
+    "coverSrc": "https://images.isbndb.com/covers/62/00/9780374286200.jpg",
+    "isbn": "0374286205",
+    "isbn13": "9780374286200",
+    "subtitle": "Essays",
+    "tags": ["memoir", "nonfiction", "essays"],
+    "title": "Nothing Good Can Come from This"
+  },
+  {
+    "author": "Kaitlyn Greenidge",
+    "bookshopDotOrg": "https://bookshop.org/p/books/libertie-kaitlyn-greenidge/15861166",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781616207014-M.jpg",
+    "isbn": "1616207019",
+    "isbn13": "9781616207014",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "family-dynamics", "pdx-book-fest"],
+    "title": "Libertie"
+  },
+  {
+    "author": "Holly Whitaker",
+    "bookshopDotOrg": "https://bookshop.org/p/books/quit-like-a-woman-the-radical-choice-to-not-drink-in-a-culture-obsessed-with-alcohol-holly-whitaker/9577277",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984825070-M.jpg",
+    "isbn": "1984825070",
+    "isbn13": "9781984825070",
+    "subtitle": "The Radical Choice to Not Drink in a Culture Obsessed with Alcohol",
+    "tags": ["memoir", "nonfiction"],
+    "title": "Quit Like a Woman"
+  },
+  {
+    "author": "Jasmine Guillory",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-wedding-date-jasmine-guillory/11374714",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780399587665-M.jpg",
+    "isbn": "0399587667",
+    "isbn13": "9780399587665",
+    "tags": ["rom-com"],
+    "title": "The Wedding Date"
+  },
+  {
+    "author": "Helen Hoang",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-kiss-quotient-helen-hoang/15559255",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780451490803-M.jpg",
+    "isbn": "0451490800",
+    "isbn13": "9780451490803",
+    "tags": ["rom-com"],
+    "title": "The Kiss Quotient"
+  },
+  {
+    "author": "Brandi Carlile",
+    "bookshopDotOrg": "https://bookshop.org/p/books/broken-horses-a-memoir-brandi-carlile/15049183",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593237267-M.jpg",
+    "isbn": "0593237269",
+    "isbn13": "9780593237267",
+    "subtitle": "A Memoir",
+    "tags": ["memoir", "nonfiction", "lgbtq"],
+    "title": "Broken Horses"
+  },
+  {
+    "author": "Bryan Washington",
+    "bookshopDotOrg": "https://bookshop.org/p/books/memorial-bryan-washington/14351073",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593087275-M.jpg",
+    "isbn": "0593087283",
+    "isbn13": "9780593087275",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "family-dynamics", "strong-sense-of-place"],
+    "title": "Memorial"
+  },
+  {
+    "author": "Abby Collette",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593099681-M.jpg",
+    "isbn": "0593099680",
+    "isbn13": "9780593099681",
+    "subtitle": "An Ice Cream Parlor Mystery",
+    "tags": ["cozy-mystery"],
+    "title": "A Game of Cones"
+  },
+  {
+    "author": "Vendela Vida",
+    "bookshopDotOrg": "https://bookshop.org/p/books/we-run-the-tides-vendela-vida/15822998",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780062936257-M.jpg",
+    "isbn": "0062936247",
+    "isbn13": "9780062936257",
+    "subtitle": "A Novel",
+    "tags": ["friendship", "strong-sense-of-place"],
+    "title": "We Run the Tides"
+  },
+  {
+    "author": "Michelle Zauner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/crying-in-h-mart-a-memoir-michelle-zauner/19630554",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780525657743-M.jpg",
+    "isbn": "0525657746",
+    "isbn13": "9780525657743",
+    "subtitle": "A Memoir",
+    "tags": [
+      "memoir",
+      "nonfiction",
+      "strong-sense-of-place",
+      "strongly-consider-reading",
+      "family-dynamics"
+    ],
+    "title": "Crying in H Mart"
+  },
+  {
+    "author": "Ashley C. Ford",
+    "bookshopDotOrg": "https://bookshop.org/p/books/somebody-s-daughter-a-memoir-ashley-c-ford/17120389",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250305978-M.jpg",
+    "isbn": "1250305977",
+    "isbn13": "9781250305978",
+    "subtitle": "A Memoir",
+    "tags": ["memoir", "nonfiction", "family-dynamics"],
+    "title": "Somebody’s Daughter"
+  },
+  {
+    "author": "Casey McQuiston",
+    "bookshopDotOrg": "https://bookshop.org/p/books/one-last-stop-casey-mcquiston/15050271",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250244499-M.jpg",
+    "isbn": "1250244498",
+    "isbn13": "9781250244499",
+    "tags": ["lgbtq", "strong-sense-of-place", "rom-com"],
+    "title": "One Last Stop"
+  },
+  {
+    "author": "Vivien Chien",
+    "bookshopDotOrg": "https://bookshop.org/p/books/death-by-dumpling-a-noodle-shop-mystery-vivien-chien/8519197",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781250129154-M.jpg",
+    "isbn": "125012915X",
+    "isbn13": "9781250129154",
+    "subtitle": "A Noodle Shop Mystery",
+    "tags": ["cozy-mystery"],
+    "title": "Death by Dumpling"
+  },
+  {
+    "author": "Karen Lord",
+    "bookshopDotOrg": "https://bookshop.org/p/books/redemption-in-indigo-karen-lord/11020383",
+    "coverSrc": "https://images.isbndb.com/covers/06/69/9781931520669.jpg",
+    "isbn": "1931520666",
+    "isbn13": "9781931520669",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "sci-fi-fantasy"],
+    "title": "Redemption in Indigo"
+  },
+  {
+    "author": "Kristen Arnett",
+    "bookshopDotOrg": "https://bookshop.org/p/books/with-teeth-kristen-arnett/15796897",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593191507-M.jpg",
+    "isbn": "0593191501",
+    "isbn13": "9780593191507",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "family-dynamics", "pdx-book-fest"],
+    "title": "With Teeth"
+  },
+  {
+    "author": "Abby Collette",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-deadly-inside-scoop-abby-collette/16666075",
+    "coverSrc": "https://images.isbndb.com/covers/96/67/9780593099667.jpg",
+    "isbn": "0593099664",
+    "isbn13": "9780593099667",
+    "subtitle": "An Ice Cream Parlor Mystery",
+    "tags": ["cozy-mystery"],
+    "title": "A Deadly Inside Scoop"
+  },
+  {
+    "author": "Jasmine Guillory",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-wedding-party-jasmine-guillory/8384169",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984802194-M.jpg",
+    "isbn": "1984802194",
+    "isbn13": "9781984802194",
+    "tags": ["rom-com"],
+    "title": "The Wedding Party"
+  },
+  {
+    "author": "Jasmine Guillory",
+    "bookshopDotOrg": "https://bookshop.org/p/books/royal-holiday-jasmine-guillory/9568593",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781984802217-M.jpg",
+    "isbn": "0593099044",
+    "isbn13": "9781984802217",
+    "tags": ["rom-com", "pdx-book-fest"],
+    "title": "Royal Holiday"
+  },
+  {
+    "author": "Robin Sloan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/sourdough-or-lois-and-her-adventures-in-the-underground-market-a-novel-robin-sloan/8981094",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780374203108-M.jpg",
+    "isbn": "0374203105",
+    "isbn13": "9780374203108",
+    "subtitle": "A Novel",
+    "tags": [
+      "strong-sense-of-place",
+      "technology",
+      "sci-fi-fantasy",
+      "humourous"
+    ],
+    "title": "Sourdough"
+  },
+  {
+    "author": "Zadie Smith",
+    "bookshopDotOrg": "https://bookshop.org/p/books/intimations-six-essays-zadie-smith/14996611",
+    "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593297612-M.jpg",
+    "isbn": "059329761X",
+    "isbn13": "9780593297612",
+    "subtitle": "Six Essays",
+    "tags": ["essays", "politics", "nonfiction", "memoir"],
+    "title": "Intimations"
+  }
+]
