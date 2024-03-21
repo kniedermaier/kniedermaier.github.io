@@ -4,7 +4,7 @@
     <fieldset class="tag">
       <legend>Select tags <button class="clear hidden">Clear selection</button></legend>
       {% for tag in tags %}
-        <input type="checkbox" id="{{tag.value}}" value="{{tag.value}}"/>
+        <input type="checkbox" id="{{tag.value}}" value="{{tag.value}}" name="filter"/>
         <label for="{{tag.value}}">{{tag.label}}</label>
       {% endfor %}
     </fieldset>

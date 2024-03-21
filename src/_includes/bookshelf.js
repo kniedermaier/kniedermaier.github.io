@@ -5,35 +5,22 @@ const totalBooks = document.querySelectorAll(".info p");
 const clearButtonSelector = "button.clear";
 const clearButton = document.querySelector(clearButtonSelector);
 
-const updateTotals = () => {
-  totalBooks.forEach((yearlyTotal) => {
-    const yearElement = yearlyTotal.parentElement.parentElement;
-    const numberOfBooks =
-      yearElement.querySelectorAll(".book:not(.hidden)").length;
-    const plural = numberOfBooks === 1 ? "" : "s";
-    yearlyTotal.textContent = `${numberOfBooks} book${plural}`;
-  });
+const getCurrentUrl = () => {
+  const { host, pathname, protocol } = window.location;
+  return `${protocol}//${host}${pathname}`;
 };
 
-const clearSelection = () => {
-  tags.forEach((tag) => (tag.checked = false));
-  clearButton.classList.add("hidden");
-  books.forEach((book) => book.classList.remove("hidden"));
-  updateTotals();
+const updateFilterParams = () => {
+  const activeTags = [...tags]
+    .filter((tag) => tag.checked)
+    .map((tag) => ["filter", tag.id]);
+  const params = new URLSearchParams(activeTags);
+  const currentUrl = getCurrentUrl();
+  const newUrl = `${currentUrl}?${params.toString()}`;
+  window.history.pushState({ path: newUrl }, "", newUrl);
 };
 
-document.addEventListener("click", (e) => {
-  if (!e.target.matches(clearButtonSelector)) return;
-  e.preventDefault();
-  clearSelection();
-});
-
-document.addEventListener("touchend", (e) => {
-  if (!e.target.matches(clearButtonSelector)) return;
-  clearSelection();
-});
-
-form.addEventListener("change", () => {
+const updateBooks = () => {
   const checkedTags = [...tags].filter((tag) => tag.checked);
 
   books.forEach((book) => {
@@ -55,6 +42,56 @@ form.addEventListener("change", () => {
       }
     }
   });
+};
 
+const updateTotals = () => {
+  totalBooks.forEach((yearlyTotal) => {
+    const yearElement = yearlyTotal.parentElement.parentElement;
+    const numberOfBooks =
+      yearElement.querySelectorAll(".book:not(.hidden)").length;
+    const plural = numberOfBooks === 1 ? "" : "s";
+    yearlyTotal.textContent = `${numberOfBooks} book${plural}`;
+  });
+};
+
+const clearSelection = () => {
+  tags.forEach((tag) => (tag.checked = false));
+  clearButton.classList.add("hidden");
+  books.forEach((book) => book.classList.remove("hidden"));
   updateTotals();
+  const newUrl = getCurrentUrl();
+  window.history.pushState({ path: newUrl }, "", newUrl);
+};
+
+clearButton.addEventListener("click", (e) => {
+  e.preventDefault();
+  clearSelection();
+});
+
+clearButton.addEventListener("touchstart", (e) => {
+  e.preventDefault();
+  clearSelection();
+});
+
+form.addEventListener("change", () => {
+  updateBooks();
+  updateTotals();
+  updateFilterParams();
+});
+
+window.addEventListener("load", () => {
+  const searchParams = new URLSearchParams(window.location.search);
+  const activFilters = searchParams.getAll("filter");
+
+  // if there are query params passed in, update the active filters selection
+  if (activFilters.length > 0) {
+    // open details
+    document.querySelector(".bookContainer details").open = "true";
+    // check relevant inputs
+    activFilters.forEach((af) => {
+      [...tags].find((tag) => tag.id === af).checked = "true";
+    });
+    updateBooks();
+    updateTotals();
+  }
 });

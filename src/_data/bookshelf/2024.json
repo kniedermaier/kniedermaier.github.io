@@ -1,5 +1,25 @@
 [
   {
+    "author": "Meryl Wilsner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/cleat-cute-meryl-wilsner/19473640",
+    "coverSrc": "https://images.isbndb.com/covers/33/09/9781250873309.jpg",
+    "isbn": "1250873304",
+    "isbn13": "9781250873309",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "sports", "romance"],
+    "title": "Cleat Cute"
+  },
+  {
+    "author": "Kara Swisher",
+    "bookshopDotOrg": "https://bookshop.org/p/books/burn-book-a-tech-love-story-kara-swisher/20388372",
+    "coverSrc": "https://images.isbndb.com/covers/38/91/9781982163891.jpg",
+    "isbn": "1982163895",
+    "isbn13": "9781982163891",
+    "subtitle": "A Tech Love Story",
+    "tags": ["memoir", "nonfiction", "lgbtq", "technology"],
+    "title": "Burn Book"
+  },
+  {
     "author": "Sarah Winman",
     "bookshopDotOrg": "https://bookshop.org/p/books/still-life-sarah-winman/16311667",
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9780593330753-M.jpg",

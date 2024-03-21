@@ -308,7 +308,8 @@ li {
   box-shadow: 0 0 0 4px var(--background), 0 0 4px 8px deeppink;
 }
 
-.book a:focus, a:focus:hover {
+.book a:focus,
+a:focus:hover {
   box-shadow: none;
 }
 
@@ -499,10 +500,11 @@ summary:focus {
     margin: 4px;
   }
 
-  .book:nth-of-type(odd), .book:nth-of-type(even) {
+  .book:nth-of-type(odd),
+  .book:nth-of-type(even) {
     margin-inline-end: 16px;
   }
-  
+
   .book:nth-of-type(even) {
     margin-inline-start: unset;
   }
@@ -510,7 +512,6 @@ summary:focus {
   summary {
     margin: 0;
   }
-  
 }
 
 @media (min-width: 600px) {
