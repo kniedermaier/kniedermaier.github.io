@@ -68,10 +68,10 @@ clearButton.addEventListener("click", (e) => {
   clearSelection();
 });
 
-clearButton.addEventListener("touchstart", (e) => {
+clearButton.addEventListener("touchend", (e) => {
   e.preventDefault();
   clearSelection();
-});
+}, { passive: true});
 
 form.addEventListener("change", () => {
   updateBooks();

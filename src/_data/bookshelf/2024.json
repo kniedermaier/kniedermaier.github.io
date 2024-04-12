@@ -1,5 +1,61 @@
 [
   {
+    "author": "Alison Cochrun",
+    "bookshopDotOrg": "https://bookshop.org/p/books/here-we-go-again-alison-cochrun/20165361",
+    "coverSrc": "https://images.isbndb.com/covers/11/94/9781668021194.jpg",
+    "isbn": "1668021196",
+    "isbn13": "9781668021194",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "rom-com"],
+    "title": "Here We Go Again"
+  },
+  {
+    "author": "Paul Harding",
+    "bookshopDotOrg": "https://bookshop.org/p/books/this-other-eden-paul-harding/18515399",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13792094-M.jpg",
+    "isbn": "1324074523",
+    "isbn13": "9781324074526",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics", "historical-fiction", "politics"],
+    "title": "This Other Eden"
+  },
+  {
+    "author": "Anne Berest",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-postcard-anne-berest/18799197",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13193347-M.jpg",
+    "isbn": "1609458389",
+    "isbn13": "9781609458386",
+    "subtitle": "A Novel",
+    "tags": [
+      "family-dynamics",
+      "historical-fiction",
+      "in-translation",
+      "strongly-consider-reading",
+      "politics"
+    ],
+    "title": "The Postcard"
+  },
+  {
+    "author": "Anne Tyler",
+    "bookshopDotOrg": "https://bookshop.org/p/books/breathing-lessons-anne-tyler/6315391",
+    "coverSrc": "https://covers.openlibrary.org/b/id/271105-M.jpg",
+    "isbn": "0345485572",
+    "isbn13": "9780345485571",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics"],
+    "title": "Breathing Lessons"
+  },
+  {
+    "author": "Richard Powers",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-overstory-richard-powers/17315941",
+    "coverSrc": "https://covers.openlibrary.org/b/id/8809047-M.jpg",
+    "isbn": "039335668X",
+    "isbn13": "9780393356687",
+    "subtitle": "A Novel",
+    "tags": ["pdx-book-fest", "politics", "strongly-consider-reading"],
+    "title": "The Overstory"
+  },
+  {
     "author": "Meryl Wilsner",
     "bookshopDotOrg": "https://bookshop.org/p/books/cleat-cute-meryl-wilsner/19473640",
     "coverSrc": "https://images.isbndb.com/covers/33/09/9781250873309.jpg",
@@ -95,7 +151,7 @@
       "humourous",
       "strong-sense-of-place"
     ],
-    "title": "Dearborn by Ghassen Zeineddine"
+    "title": "Dearborn"
   },
   {
     "author": "Alexis M. Smith",
@@ -151,7 +207,7 @@
     "isbn13": "9781250055361",
     "subtitle": "A Novel",
     "tags": ["historical-fiction", "family-dynamics", "strong-sense-of-place"],
-    "title": "Someone by "
+    "title": "Someone"
   },
   {
     "author": "Emily St. John Mandel",
