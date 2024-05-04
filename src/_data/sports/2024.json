@@ -1,0 +1,1962 @@
+[
+  {
+    "dateTime": "2024-05-04T07:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Atlanta Dream",
+    "tv": "",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-05T01:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-08T00:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Chicago Sky",
+    "tv": "Not Televised",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-08T02:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Seattle Storm",
+    "tv": "Not Televised",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-08T15:30:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Washington Mystics",
+    "tv": "Not Televised",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-09T23:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Connecticut Sun",
+    "tv": "Not Televised",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-09T23:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Indiana Fever",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-11T02:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Phoenix Mercury",
+    "tv": "",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-11T17:00:00.000Z",
+    "away": "Puerto Rico National Team",
+    "home": "Las Vegas Aces",
+    "tv": "Not Televised",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-14T23:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Washington Mystics",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-14T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Connecticut Sun",
+    "tv": "ESPN2",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-15T02:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Las Vegas Aces",
+    "tv": "ESPN2",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-15T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Seattle Storm",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-16T00:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Dallas Wings",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-16T02:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-16T23:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Indiana Fever",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-17T23:30:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Connecticut Sun",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-18T01:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Minnesota Lynx",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-18T17:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "New York Liberty",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-19T07:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Las Vegas Aces",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-19T00:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Dallas Wings",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-19T02:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Phoenix Mercury",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-20T07:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-20T23:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Indiana Fever",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-20T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "New York Liberty",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-21T23:30:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-22T02:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Las Vegas Aces",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-22T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-23T02:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-23T23:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-23T23:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-24T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Phoenix Mercury",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-25T02:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Los Angeles Sparks",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-25T17:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Minnesota Lynx",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-26T00:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Chicago Sky",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-26T01:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Las Vegas Aces",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-26T01:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-26T02:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-26T22:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-27T01:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-28T23:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Connecticut Sun",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-28T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-29T00:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-29T23:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "New York Liberty",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-29T23:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-30T00:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Minnesota Lynx",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-30T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Indiana Fever",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-31T00:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-31T23:30:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-31T23:30:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Connecticut Sun",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-05-31T23:30:00.000Z",
+    "away": "Washington Mystics",
+    "home": "New York Liberty",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-01T01:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Minnesota Lynx",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-01T17:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-03T07:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-02T22:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-02T23:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "New York Liberty",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-02T23:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Minnesota Lynx",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-04T23:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-05T00:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Chicago Sky",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-05T02:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Seattle Storm",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-06T00:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Dallas Wings",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-06T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-06T23:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Washington Mystics",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-06T23:30:00.000Z",
+    "away": "New York Liberty",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-07T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Washington Mystics",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-08T02:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Las Vegas Aces",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-08T02:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Los Angeles Sparks",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-08T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Phoenix Mercury",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-08T17:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Connecticut Sun",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-08T21:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Chicago Sky",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-10T07:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "New York Liberty",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-09T20:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Dallas Wings",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-09T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-10T01:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-10T23:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Connecticut Sun",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-11T23:30:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-12T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Las Vegas Aces",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-12T02:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-13T00:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-13T23:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Indiana Fever",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-13T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Dallas Wings",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-14T02:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Phoenix Mercury",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-14T23:30:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Washington Mystics",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-14T23:30:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Minnesota Lynx",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-15T17:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Dallas Wings",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-16T07:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Las Vegas Aces",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-16T16:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Indiana Fever",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-17T07:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Phoenix Mercury",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-17T07:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Atlanta Dream",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-18T00:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-18T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Connecticut Sun",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-19T02:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Phoenix Mercury",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-19T23:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-20T00:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-20T02:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Las Vegas Aces",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-20T16:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-20T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-21T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-22T02:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Las Vegas Aces",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-23T07:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Washington Mystics",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-23T07:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "New York Liberty",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-23T00:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Minnesota Lynx",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-24T07:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-24T07:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-24T07:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-23T22:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Chicago Sky",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-27T17:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Dallas Wings",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-27T23:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Washington Mystics",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-27T23:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Chicago Sky",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-28T02:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Seattle Storm",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-28T23:30:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Connecticut Sun",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-29T02:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Phoenix Mercury",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-29T18:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Washington Mystics",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-30T01:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Seattle Storm",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-06-30T17:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "New York Liberty",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-01T07:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Chicago Sky",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-01T07:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Phoenix Mercury",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-02T02:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-02T02:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Seattle Storm",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-02T23:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "New York Liberty",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-02T23:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Atlanta Dream",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-03T01:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Las Vegas Aces",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-03T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Los Angeles Sparks",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-04T00:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Dallas Wings",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-05T00:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Minnesota Lynx",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-05T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Las Vegas Aces",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-05T23:30:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Dallas Wings",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-06T02:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Los Angeles Sparks",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-06T02:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Seattle Storm",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-06T17:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Indiana Fever",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-07T00:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Minnesota Lynx",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-07T17:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-08T07:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Las Vegas Aces",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-07T22:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-07T23:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-10T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-10T15:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-10T16:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-10T16:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-11T07:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-11T07:30:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-11T23:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-12T23:30:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-12T23:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Indiana Fever",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-13T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Seattle Storm",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-13T17:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Chicago Sky",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-14T07:30:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Dallas Wings",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-14T17:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Connecticut Sun",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-15T07:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Washington Mystics",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-14T20:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Minnesota Lynx",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-14T22:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-16T15:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-17T07:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-16T23:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-17T02:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Las Vegas Aces",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-17T17:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-17T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Dallas Wings",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-07-21T00:30:00.000Z",
+    "away": "USAB Women's National Team",
+    "home": "Team WNBA",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-16T00:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Chicago Sky",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-16T00:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Minnesota Lynx",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-16T01:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Los Angeles Sparks",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-16T23:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-16T23:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Indiana Fever",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-17T01:30:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Dallas Wings",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-17T18:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Washington Mystics",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-17T20:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Las Vegas Aces",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-17T21:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-19T07:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Atlanta Dream",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-19T07:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Indiana Fever",
+    "tv": "ABC",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-18T22:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Las Vegas Aces",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-19T01:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-20T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-20T23:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "New York Liberty",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-20T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-21T23:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-22T01:30:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Las Vegas Aces",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-22T23:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-23T23:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-23T23:30:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Connecticut Sun",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-23T23:30:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Washington Mystics",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-24T01:30:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Minnesota Lynx",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-24T23:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "New York Liberty",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-25T00:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Minnesota Lynx",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-25T16:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Chicago Sky",
+    "tv": "CBS",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-25T20:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Dallas Wings",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-26T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Atlanta Dream",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-27T02:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Phoenix Mercury",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-27T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-28T00:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Dallas Wings",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-28T23:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-29T00:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-29T02:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Los Angeles Sparks",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-29T02:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-29T02:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-30T23:30:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Chicago Sky",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-30T23:30:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Dallas Wings",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-31T02:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Las Vegas Aces",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-08-31T02:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Seattle Storm",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-01T07:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-01T17:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Connecticut Sun",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-02T07:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-01T20:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Dallas Wings",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-01T20:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-01T23:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-03T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-04T00:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Dallas Wings",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-04T02:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Las Vegas Aces",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-04T02:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-04T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Indiana Fever",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-05T23:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "New York Liberty",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-06T02:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Phoenix Mercury",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-06T23:30:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-06T23:30:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Connecticut Sun",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-06T23:30:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Indiana Fever",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-07T01:30:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Chicago Sky",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-08T01:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Seattle Storm",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-09T07:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Washington Mystics",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-08T20:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Indiana Fever",
+    "tv": "ESPN3,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-08T20:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "New York Liberty",
+    "tv": "ESPN",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-08T22:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-09T01:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-10T23:30:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Atlanta Dream",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-11T00:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Dallas Wings",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-11T02:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-11T23:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Indiana Fever",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-12T00:00:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-12T02:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Los Angeles Sparks",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-13T00:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Dallas Wings",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-13T23:30:00.000Z",
+    "away": "Washington Mystics",
+    "home": "Atlanta Dream",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-13T23:30:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Indiana Fever",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-13T23:30:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Dallas Wings",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-13T23:30:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Minnesota Lynx",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-14T02:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Phoenix Mercury",
+    "tv": "ION,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-16T07:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Indiana Fever",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-16T07:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "New York Liberty",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-16T07:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "Washington Mystics",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-15T22:00:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Chicago Sky",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-15T22:00:00.000Z",
+    "away": "Connecticut Sun",
+    "home": "Las Vegas Aces",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-15T22:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Seattle Storm",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-17T23:00:00.000Z",
+    "away": "Minnesota Lynx",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-17T23:00:00.000Z",
+    "away": "New York Liberty",
+    "home": "Washington Mystics",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-17T23:30:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Atlanta Dream",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-18T02:00:00.000Z",
+    "away": "Las Vegas Aces",
+    "home": "Seattle Storm",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-18T02:30:00.000Z",
+    "away": "Phoenix Mercury",
+    "home": "Los Angeles Sparks",
+    "tv": "CBS Sports Network",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-19T23:00:00.000Z",
+    "away": "Chicago Sky",
+    "home": "Connecticut Sun",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-19T23:00:00.000Z",
+    "away": "Atlanta Dream",
+    "home": "New York Liberty",
+    "tv": "NBA TV,League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-19T23:00:00.000Z",
+    "away": "Indiana Fever",
+    "home": "Washington Mystics",
+    "tv": "Amazon Prime Video",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-19T23:00:00.000Z",
+    "away": "Los Angeles Sparks",
+    "home": "Minnesota Lynx",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-20T01:00:00.000Z",
+    "away": "Dallas Wings",
+    "home": "Las Vegas Aces",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-09-20T01:00:00.000Z",
+    "away": "Seattle Storm",
+    "home": "Phoenix Mercury",
+    "tv": "League Pass",
+    "league": "WNBA"
+  },
+  {
+    "dateTime": "2024-02-24T19:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "San Diego Wave FC",
+    "tv": "W :: 1-2",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-03-16T17:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Kansas City Current",
+    "tv": "L :: 5-4",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-03-24T23:00:00.000Z",
+    "away": "NJ/NY Gotham FC",
+    "home": "Thorns FC",
+    "tv": "L :: 0-1",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-03-30T23:30:00.000Z",
+    "away": "Racing Louisville FC",
+    "home": "Thorns FC",
+    "tv": "D :: 2-2",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-04-13T23:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "North Carolina Courage",
+    "tv": "L :: 2-0",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-04-21T02:00:00.000Z",
+    "away": "Houston Dash",
+    "home": "Thorns FC",
+    "tv": "W :: 4-1",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-04-27T23:30:00.000Z",
+    "away": "Thorns FC",
+    "home": "Chicago Red Stars",
+    "tv": "W :: 0-2",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-02T02:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Bay FC",
+    "tv": "W :: 2-3",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-05T02:00:00.000Z",
+    "away": "Washington Spirit",
+    "home": "Thorns FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-12T02:00:00.000Z",
+    "away": "Seattle Reign FC",
+    "home": "Thorns FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-18T00:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Houston Dash",
+    "tv": "NWSL+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-24T23:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Orlando Pride",
+    "tv": "NWSL+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-06-09T02:00:00.000Z",
+    "away": "North Carolina Courage",
+    "home": "Thorns FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-06-16T20:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Seattle Reign FC",
+    "tv": "CBS, Paramount+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-06-23T20:00:00.000Z",
+    "away": "Kansas City Current",
+    "home": "Thorns FC",
+    "tv": "NWSL+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-06-30T02:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Utah Royals",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-07-06T02:00:00.000Z",
+    "away": "San Diego Wave FC",
+    "home": "Thorns FC",
+    "tv": "Prime Video",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-07-21T23:00:00.000Z",
+    "away": "Club Tijuana",
+    "home": "Thorns FC",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-07-28T02:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Utah Royals",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-08-01T02:00:00.000Z",
+    "away": "Seattle Reign FC",
+    "home": "Thorns FC",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-08-24T18:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "NJ/NY Gotham FC",
+    "tv": "CBS, Paramount+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-08-31T02:00:00.000Z",
+    "away": "Bay FC",
+    "home": "Thorns FC",
+    "tv": "Prime Video",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-09-07T16:30:00.000Z",
+    "away": "Thorns FC",
+    "home": "Washington Spirit",
+    "tv": "CBS, Paramount+",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-09-14T02:00:00.000Z",
+    "away": "Chicago Red Stars",
+    "home": "Thorns FC",
+    "tv": "Prime Video",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-09-24T02:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "Angel City FC",
+    "tv": "CBS Sports Network",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-09-29T02:00:00.000Z",
+    "away": "Thorns FC",
+    "home": "San Diego Wave FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-10-06T02:00:00.000Z",
+    "away": "Utah Royals",
+    "home": "Thorns FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-10-12T02:00:00.000Z",
+    "away": "Orlando Pride",
+    "home": "Thorns FC",
+    "tv": "Prime Video",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-10-19T23:30:00.000Z",
+    "away": "Thorns FC",
+    "home": "Racing Louisville FC",
+    "tv": "ION",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-11-02T02:00:00.000Z",
+    "away": "Angel City FC",
+    "home": "Thorns FC",
+    "tv": "Prime Video",
+    "league": "NWSL"
+  }
+]

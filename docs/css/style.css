@@ -285,6 +285,14 @@ li {
   height: 250px;
 }
 
+.hide-desktop {
+  display: none;
+}
+
+.hide-mobile {
+  display: table-cell;
+}
+
 @media (min-width: 500px) {
   nav.primary li {
     padding: 0 0 0 1rem;
@@ -317,6 +325,14 @@ li {
   
   .year:not(:first-of-type) {
     margin: 2rem 0 0;
+  }
+
+  .hide-desktop {
+    display: table-cell;
+  }
+  
+  .hide-mobile {
+    display: none;
   }
 }
 

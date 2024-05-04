@@ -446,6 +446,34 @@ summary:focus {
   width: 1px;
 }
 
+th, td {
+  padding: 8px;
+}
+
+th {
+  background: var(--accent-gray);
+}
+
+tr {
+  background: var(--background);
+}
+
+tr:nth-of-type(even) {
+  background: var(--accent-gray);
+}
+
+.hide-desktop {
+  display: table-cell;
+}
+
+.hide-mobile {
+  display: none;
+}
+
+table {
+  font-size: 0.75rem;
+}
+
 @media(min-width: 332px) {
   .books {
     display: grid;
@@ -454,6 +482,10 @@ summary:focus {
 
   .cover img {
     height: 250px;
+  }
+
+  table {
+    font-size: unset;
   }
 }
 
@@ -477,7 +509,7 @@ summary:focus {
     width: unset;
   }
 
-  section.bookshelf {
+  section.bookshelf, section.sports {
     max-width: 1400px;
   }
 
@@ -522,6 +554,14 @@ summary:focus {
 
   summary {
     margin: 0;
+  }
+
+  .hide-desktop {
+    display: none;
+  }
+  
+  .hide-mobile {
+    display: table-cell;
   }
 }
 
