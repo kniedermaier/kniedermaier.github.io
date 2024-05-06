@@ -1,0 +1,31 @@
+{% for year, sports in years %}
+  <table class="schedule">
+    <caption>{{ year }} Schedule
+      <button class="clear">Jump to next game</button>
+    </caption>
+    <thead>
+      <tr>
+        <th class="hide-mobile">Day</th>
+        <th class="hide-mobile">Time</th>
+        <th class="hide-desktop">Date</th>
+        <th class="hide-mobile">Away</th>
+        <th class="hide-mobile">Home</th>
+        <th class="hide-desktop">Teams</th>
+        <th>TV</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for game in sports %}
+        <tr data-dateTime={{ game.dateTime }}>
+          <td class="hide-mobile">{{ game.formattedDate }}</td>
+          <td class="hide-mobile">{{ game.formattedTime }}</td>
+          <td class="hide-desktop">{{ game.formattedDate }} @ {{ game.formattedTime }}</td>
+          <td class="hide-mobile">{{ game.away }}</td>
+          <td class="hide-mobile">{{ game.home }}</td>
+          <td class="hide-desktop">{{ game.away }} @ {{ game.home }}</td>
+          <td>{{ game.tv }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}

@@ -1,12 +1,13 @@
 ---
 layout: layouts/page.njk
 ---
+
 <div class="bookContainer">
   <nav class="sidebar">
     <ul>
       {% for item in bookshelfNavigation.items %}
         <li>
-          <a href={{item.url}}>{{item.text}}</a>
+          <a href={{ item.url }}>{{ item.text }}</a>
         </li>
       {% endfor %}
     </ul>
@@ -19,5 +20,4 @@ layout: layouts/page.njk
   </div>
 </div>
 <script>
-  {% include "bookshelf.js" %}
-</script>
+  {% include "bookshelf.js" %}</script>

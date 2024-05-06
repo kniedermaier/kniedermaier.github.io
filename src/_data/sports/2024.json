@@ -1958,5 +1958,12 @@
     "home": "Thorns FC",
     "tv": "Prime Video",
     "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-05-25T16:00:00.000Z",
+    "away": "Lyon",
+    "home": "Barca",
+    "tv": "DAZN",
+    "league": "W Champions League"
   }
 ]

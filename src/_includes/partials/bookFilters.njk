@@ -1,8 +1,9 @@
 <details>
   <summary>Filter books by tags:</summary>
   <form class="filter">
+    <button class="clear hidden">Clear selection</button>
     <fieldset class="tag">
-      <legend>Select tags <button class="clear hidden">Clear selection</button></legend>
+      <legend>Select tags</legend>
       {% for tag in tags %}
         <input type="checkbox" id="{{tag.value}}" value="{{tag.value}}" name="filter"/>
         <label for="{{tag.value}}">{{tag.label}}</label>
