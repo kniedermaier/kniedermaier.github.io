@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 ---
   <div>
+    {% include "partials/leagueSelect.njk" %}
     {% for years in sports %}
       {% include "partials/sportsByYear.njk" %}
     {% endfor %}

@@ -1,0 +1,12 @@
+<div class="select-wrapper">
+  <form class="filter">
+    <label for="league-filter">Select league</label>
+    <select id="league-filter">
+      <option value=''>All</option>
+      {% for league in leagues %}
+        <option id="{{ league.value }}" value="{{ league.value }}">{{ league.label }}</option>
+      {% endfor %}
+    </select>
+  </form>
+  <button id="jump" class="clear">Jump to next game</button>
+</div>

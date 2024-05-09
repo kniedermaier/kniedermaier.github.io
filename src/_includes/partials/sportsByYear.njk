@@ -1,8 +1,6 @@
 {% for year, sports in years %}
   <table class="schedule">
-    <caption>{{ year }} Schedule
-      <button class="clear">Jump to next game</button>
-    </caption>
+    <caption>{{ year }} Schedule</caption>
     <thead>
       <tr>
         <th class="hide-mobile">Day</th>
@@ -16,7 +14,7 @@
     </thead>
     <tbody>
       {% for game in sports %}
-        <tr data-dateTime={{ game.dateTime }}>
+        <tr data-dateTime={{ game.dateTime }} data-league={{ game.league }}>
           <td class="hide-mobile">{{ game.formattedDate }}</td>
           <td class="hide-mobile">{{ game.formattedTime }}</td>
           <td class="hide-desktop">{{ game.formattedDate }} @ {{ game.formattedTime }}</td>
