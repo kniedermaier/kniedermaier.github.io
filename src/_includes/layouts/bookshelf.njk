@@ -4,9 +4,9 @@ layout: layouts/page.njk
 
 <div class="bookContainer">
   <nav class="sidebar">
-    <ul>
+    <ul class="display-flex flex-wrap padding-0 margin-0 flex-column-desktop">
       {% for item in bookshelfNavigation.items %}
-        <li>
+        <li class="list-style-none">
           <a href={{ item.url }}>{{ item.text }}</a>
         </li>
       {% endfor %}
@@ -15,6 +15,7 @@ layout: layouts/page.njk
   <div>
     {% include "partials/bookFilters.njk" %}
     {% for years in books %}
+      {% set isFirst = loop.first %}
       {% include "partials/booksByYear.njk" %}
     {% endfor %}
   </div>

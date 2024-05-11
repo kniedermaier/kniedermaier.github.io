@@ -1,8 +1,8 @@
 {% set hasImageLink = item.image.href %}
 {% set hasLink = item.link %}
-<article class="work">
+<article class="work padding-2 margin-top-2">
 <h2>{{ item.name }}</h2>
-<div class="wrapper">
+<div class="display-flex flex-column flex-row-desktop">
 {% if hasImageLink %}
 <a href="{{ item.image.href }}">
 <img alt="{{ item.image.alt }}" src="{{ item.image.src }}"/>
@@ -10,7 +10,7 @@
 {% else %}
 <img alt="{{ item.image.alt }}" src="{{ item.image.src }}"/>
 {% endif %}
-<div class="text">
+<div class="text display-flex flex-column">
 <p>{{ item.description }}
 {% if hasLink%}{{ item.link | safe }}
 {% endif %}

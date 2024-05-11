@@ -1,7 +1,7 @@
 {% for year, books in years %}
-  <article class="year">
-    <div class="info">
-      <h2 id="{{year}}">{{ year }}</h2>
+  <article class="{{ "margin-top-3" if isFirst else "margin-top-4" }}">
+    <div class="display-flex flex-align-baseline margin-bottom-2">
+      <h2 id="{{year}}" class="margin-right-2">{{ year }}</h2>
       <p class="bold">{{books.length}} books</p>
     </div>
     <div class="books">

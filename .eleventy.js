@@ -1,4 +1,4 @@
-const htmlmin = require("html-minifier");
+const { minify } = require('html-minifier-terser');
 const CleanCSS = require("clean-css");
 
 module.exports = function (config) {
@@ -9,7 +9,7 @@ module.exports = function (config) {
 
   config.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
-      let minified = htmlmin.minify(content, {
+      let minified = minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,

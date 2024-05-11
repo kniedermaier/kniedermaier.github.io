@@ -3,24 +3,24 @@
     <caption>{{ year }} Schedule</caption>
     <thead>
       <tr>
-        <th class="hide-mobile">Day</th>
-        <th class="hide-mobile">Time</th>
-        <th class="hide-desktop">Date</th>
-        <th class="hide-mobile">Away</th>
-        <th class="hide-mobile">Home</th>
-        <th class="hide-desktop">Teams</th>
+        <th class="display-none display-table-cell-desktop">Day</th>
+        <th class="display-none display-table-cell-desktop">Time</th>
+        <th class="display-table-cell display-none-desktop">Date</th>
+        <th class="display-none display-table-cell-desktop">Away</th>
+        <th class="display-none display-table-cell-desktop">Home</th>
+        <th class="display-table-cell display-none-desktop">Teams</th>
         <th>TV</th>
       </tr>
     </thead>
     <tbody>
       {% for game in sports %}
         <tr data-dateTime={{ game.dateTime }} data-league={{ game.league }}>
-          <td class="hide-mobile">{{ game.formattedDate }}</td>
-          <td class="hide-mobile">{{ game.formattedTime }}</td>
-          <td class="hide-desktop">{{ game.formattedDate }} @ {{ game.formattedTime }}</td>
-          <td class="hide-mobile">{{ game.away }}</td>
-          <td class="hide-mobile">{{ game.home }}</td>
-          <td class="hide-desktop">{{ game.away }} @ {{ game.home }}</td>
+          <td class="display-none display-table-cell-desktop">{{ game.formattedDate }}</td>
+          <td class="display-none display-table-cell-desktop">{{ game.formattedTime }}</td>
+          <td class="display-table-cell display-none-desktop">{{ game.formattedDate }} @ {{ game.formattedTime }}</td>
+          <td class="display-none display-table-cell-desktop">{{ game.away }}</td>
+          <td class="display-none display-table-cell-desktop">{{ game.home }}</td>
+          <td class="display-table-cell display-none-desktop">{{ game.away }} @ {{ game.home }}</td>
           <td>{{ game.tv }}</td>
         </tr>
       {% endfor %}

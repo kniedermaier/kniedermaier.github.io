@@ -1,0 +1,9 @@
+<nav aria-label="Primary navigaton" class="display-flex flex-wrap flex-justify primary">
+  <ul class="display-flex flex-wrap flex-justify-end-desktop padding-0 margin-0">
+    {% for item in navigation.links %}
+      <li class="margin-right-2 margin-right-0-desktop list-style-none">
+        <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

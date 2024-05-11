@@ -1,7 +1,7 @@
-<div class="select-wrapper">
+<div class="display-flex flex-align-center flex-wrap margin-bottom-1">
   <form class="filter">
-    <label for="league-filter">Select league</label>
-    <select id="league-filter">
+    <label for="league-filter" class="margin-right-1">Select league</label>
+    <select id="league-filter" class="margin-2 margin-left-0">
       <option value=''>All</option>
       {% for league in leagues %}
         <option id="{{ league.value }}" value="{{ league.value }}">{{ league.label }}</option>
