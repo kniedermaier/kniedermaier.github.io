@@ -14,7 +14,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9781501117220-M.jpg",
     "isbn": "150111722X",
     "isbn13": "9781501117220",
-    "tags": [],
+    "tags": ["nonfiction", "memoir", "humourous"],
     "title": "Scrappy Little Nobody"
   },
   {
@@ -34,7 +34,7 @@
     "isbn": "1476739234",
     "isbn13": "9781476739236",
     "subtitle": "An Exploration",
-    "tags": [],
+    "tags": ["nature", "nonfiction"],
     "title": "On Trails"
   },
   {
@@ -43,7 +43,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9781934781630-M.jpg",
     "isbn": "0307387941",
     "isbn13": "9781934781630",
-    "tags": [],
+    "tags": ["strong-sense-of-place"],
     "title": "Zeitoun"
   },
   {
@@ -53,7 +53,7 @@
     "isbn": "0143124544",
     "isbn13": "9780718157838",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["romance"],
     "title": "Me Before You"
   },
   {
@@ -199,7 +199,7 @@
     "coverSrc": "https://images.isbndb.com/covers/09/72/9780143110972.jpg",
     "isbn": "0143110977",
     "isbn13": "9780143110972",
-    "tags": [],
+    "tags": ["nature"],
     "title": "At the Edge of the Orchard"
   },
   {
@@ -219,7 +219,13 @@
     "isbn": "1250132142",
     "isbn13": "9781250132147",
     "subtitle": "A Personal Topography of America’s National Parks",
-    "tags": [],
+    "tags": [
+      "nature",
+      "memoir",
+      "essays",
+      "nonfiction",
+      "strong-sense-of-place"
+    ],
     "title": "The Hour of Land"
   },
   {
@@ -229,7 +235,7 @@
     "isbn": "1617690988",
     "isbn13": "9781617690983",
     "subtitle": "And Other Stories of Family, Love, Dysfunction, Survival and DIY",
-    "tags": [],
+    "tags": ["nature"],
     "title": "How to Catch a Frog"
   },
   {
@@ -238,7 +244,7 @@
     "coverSrc": "https://images.isbndb.com/covers/01/07/9781941920107.jpg",
     "isbn": "1941920101",
     "isbn13": "9781941920107",
-    "tags": [],
+    "tags": ["in-translation", "saga", "politics", "strong-sense-of-place"],
     "title": "Home"
   },
   {
@@ -248,7 +254,7 @@
     "isbn": "1476716579",
     "isbn13": "9781501160691",
     "subtitle": "Unmarried Women and the Rise of an Independent Nation",
-    "tags": [],
+    "tags": ["nonfiction", "feminism", "politics"],
     "title": "All the Single Ladies"
   },
   {
@@ -257,7 +263,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9780812988406-M.jpg",
     "isbn": "081298840X",
     "isbn13": "9780812988406",
-    "tags": [],
+    "tags": ["nonfiction", "memoir"],
     "title": "When Breath Becomes Air"
   },
   {
@@ -266,7 +272,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9781594634680-M.jpg",
     "isbn": "1594634688",
     "isbn13": "9781594634680",
-    "tags": [],
+    "tags": ["humourous", "family-dynamics"],
     "title": "Modern Lovers"
   },
   {
@@ -276,7 +282,7 @@
     "isbn": "0143109413",
     "isbn13": "9780143109419",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["family-dynamics"],
     "title": "Kitchens of the Great Midwest"
   },
   {
@@ -286,16 +292,15 @@
     "isbn": "1451695020",
     "isbn13": "9781451695021",
     "subtitle": "Memoirs of a Bike-Riding Obituarist",
-    "tags": [],
+    "tags": ["memoir", "nonfiction", "essays"],
     "title": "Life Is a Wheel"
   },
   {
     "author": "Sean Wilsey",
-    "bookshopDotOrg": "https://bookshop.org/p/books/more-curious-sean-wilsey/7359302",
     "coverSrc": "https://images.isbndb.com/covers/01/79/9781940450179.jpg",
     "isbn": "1940450179",
     "isbn13": "9781940450179",
-    "tags": [],
+    "tags": ["nonfiction", "memoir", "essays"],
     "title": "More Curious"
   },
   {
@@ -305,7 +310,7 @@
     "isbn": "1250076226",
     "isbn13": "9781250076229",
     "subtitle": "Medicine and What Matters in the End",
-    "tags": [],
+    "tags": ["nonfiction", "strongly-consider-reading"],
     "title": "Being Mortal"
   },
   {
@@ -315,7 +320,7 @@
     "isbn": "0812983599",
     "isbn13": "9780399591990",
     "subtitle": "The Transformative Power of Real Productivity",
-    "tags": [],
+    "tags": ["nonfiction"],
     "title": "Smarter Faster Better"
   },
   {
@@ -344,7 +349,8 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9780609809549-M.jpg",
     "isbn": "0609809547",
     "isbn13": "9780609809549",
-    "tags": [],
+    "subtitle": "Living at Large in the World",
+    "tags": ["nonfiction", "essays", "memoir"],
     "title": "Tales of a Female Nomad"
   },
   {
@@ -354,7 +360,7 @@
     "isbn": "0385348614",
     "isbn13": "9780385348614",
     "subtitle": "Mastering the Habits of Our Everyday Lives",
-    "tags": [],
+    "tags": ["nonfiction"],
     "title": "Better Than Before"
   },
   {
@@ -364,7 +370,7 @@
     "isbn": "0143128973",
     "isbn13": "9780143128977",
     "subtitle": "Handbook for an Urban Revolution",
-    "tags": [],
+    "tags": ["urban-planning", "memoir", "nonfiction"],
     "title": "Streetfight"
   },
   {
@@ -374,7 +380,7 @@
     "isbn": "069116472X",
     "isbn13": "9780691164724",
     "subtitle": "The Enigma",
-    "tags": [],
+    "tags": ["technology", "lgbtq"],
     "title": "Alan Turing"
   },
   {
@@ -384,7 +390,7 @@
     "isbn": "0307278352",
     "isbn13": "9780307278357",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["sci-fi-fantasy"],
     "title": "Remainder"
   },
   {
@@ -394,7 +400,7 @@
     "isbn": "0060890681",
     "isbn13": "9780060890681",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["romance"],
     "title": "The Last Anniversary"
   },
   {
@@ -403,7 +409,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9780553380163-M.jpg",
     "isbn": "0553380168",
     "isbn13": "9780553380163",
-    "tags": [],
+    "tags": ["technology", "nonfiction"],
     "title": "A Brief History of Time"
   },
   {
@@ -413,7 +419,7 @@
     "isbn": "0307739627",
     "isbn13": "9780307739629",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["sci-fi-fantasy"],
     "title": "Satin Island"
   },
   {
@@ -456,7 +462,7 @@
     "isbn": "0062331175",
     "isbn13": "9780062331175",
     "subtitle": "A Novel",
-    "tags": [],
+    "tags": ["nature"],
     "title": "The Bees"
   }
 ]

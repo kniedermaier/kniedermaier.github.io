@@ -33,7 +33,7 @@
     "isbn": "1250062187",
     "isbn13": "9781250062185",
     "subtitle": "An Unnatural History",
-    "tags": ["nonfiction"],
+    "tags": ["nonfiction", "nature"],
     "title": "The Sixth Extinction"
   },
   {
@@ -274,7 +274,7 @@
     "isbn": "1466873582",
     "isbn13": "9780312362317",
     "subtitle": "Journeys Among the Lost and Left Behind",
-    "tags": [],
+    "tags": ["nature", "nonfiction"],
     "title": "The Sixth Extinction"
   },
   {
@@ -442,7 +442,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9781101873724-M.jpg",
     "isbn": "1101873728",
     "isbn13": "9781101873724",
-    "tags": [],
+    "tags": ["nature"],
     "title": "Lab Girl"
   },
   {

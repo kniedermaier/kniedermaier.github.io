@@ -1,5 +1,224 @@
 [
   {
+    "author": "Rebecca K Reilly",
+    "bookshopDotOrg": "https://bookshop.org/p/books/greta-valdin-rebecca-k-reilly/20165452?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/80/49/9781668028049.jpg",
+    "isbn": "1668028042",
+    "isbn13": "9781668028049",
+    "subtitle": "A Novel",
+    "tags": [
+      "lgbtq",
+      "family-dynamics",
+      "strong-sense-of-place",
+      "strongly-consider-reading",
+      "romance"
+    ],
+    "title": "Greta & Valdin"
+  },
+  {
+    "author": "James McBride",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-heaven-earth-grocery-store-james-mcbride/19674560?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13161648-M.jpg",
+    "isbn": "0593422945",
+    "isbn13": "9780593422946",
+    "subtitle": "A Novel",
+    "tags": ["saga", "historical-fiction", "friendship", "family-dynamics"],
+    "title": "The Heaven & Earth Grocery Store"
+  },
+  {
+    "author": "Britney Griner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/coming-home-brittney-griner/21003157?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14627275-M.jpg",
+    "isbn": "0593801342",
+    "isbn13": "9780593801345",
+    "tags": ["politics", "lgbtq", "nonfiction", "memoir", "sports"],
+    "title": "Coming Home"
+  },
+  {
+    "author": "Tommy Orange",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wandering-stars-tommy-orange/20147180?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14587967-M.jpg",
+    "isbn": "0593318250",
+    "isbn13": "9780593318256",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics", "coming-of-age", "saga"],
+    "title": "Wandering Stars"
+  },
+  {
+    "author": "Georgia Cloepfil",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-striker-and-the-clock-on-being-in-the-game-georgia-cloepfil/21003204?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/48/81/9780593714881.jpg",
+    "isbn": "0593714881",
+    "isbn13": "9780593714881",
+    "subtitle": "On Being in the Game",
+    "tags": ["memoir", "nonfiction", "coming-of-age", "sports"],
+    "title": "The Striker and the Clock"
+  },
+  {
+    "author": "Erica Berry",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wolfish-wolf-self-and-the-stories-we-tell-about-fear-erica-berry/18413421?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13330216-M.jpg",
+    "isbn": "1250832675",
+    "isbn13": "9781250832672",
+    "subtitle": "Wolf, Self, and the Stories We Tell about Fear",
+    "tags": ["memoir", "essays", "feminism", "nature"],
+    "title": "Wolfish"
+  },
+  {
+    "author": "Matt Cain",
+    "bookshopDotOrg": "https://bookshop.org/p/books/becoming-ted-matt-cain/20526035?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/59/41/9781496745941.jpg",
+    "isbn": "1496745949",
+    "isbn13": "9781496745941",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "rom-com"],
+    "title": "Becoming Ted"
+  },
+  {
+    "author": "Kiley Reid",
+    "bookshopDotOrg": "https://bookshop.org/p/books/come-and-get-it-kiley-reid/20010908?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14571761-M.jpg",
+    "isbn": "0593328205",
+    "isbn13": "9780593328200",
+    "subtitle": "",
+    "tags": [
+      "insufferable-characters",
+      "coming-of-age",
+      "lgbtq",
+      "strong-sense-of-place"
+    ],
+    "title": "Come and Get It"
+  },
+  {
+    "author": "Sophie Kinsella",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-burnout-sophie-kinsella/19997866?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14399001-M.jpg",
+    "isbn": "0593730399",
+    "isbn13": "9780593730393",
+    "subtitle": "A Novel",
+    "tags": ["romance", "humourous", "insufferable-characters"],
+    "title": "The burnout"
+  },
+  {
+    "author": "Lucy gilmore",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-lonely-hearts-book-club-lucy-gilmore/18567103?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13214367-M.jpg",
+    "isbn": "1728256216",
+    "isbn13": "9781728256214",
+    "subtitle": "A Novel",
+    "tags": ["friendship"],
+    "title": "The Lonely Hearts Book Club"
+  },
+  {
+    "author": "Daniel Mason",
+    "bookshopDotOrg": "https://bookshop.org/p/books/north-woods-daniel-mason/19507917?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14421778-M.jpg",
+    "isbn": "0593597036",
+    "isbn13": "9780593597033",
+    "subtitle": "A Novel",
+    "tags": ["strong-sense-of-place", "magical-realism", "nature"],
+    "title": "North Woods"
+  },
+  {
+    "author": "Helen Simonson",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-hazelbourne-ladies-motorcycle-and-flying-club-helen-simonson/20411205?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14621133-M.jpg",
+    "isbn": "1984801317",
+    "isbn13": "9781984801319",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "friendship", "strong-sense-of-place"],
+    "title": "The Hazelbourne Ladies Motorcycle and Flying Club"
+  },
+  {
+    "author": "Nathan Hill",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wellness-nathan-hill/19598608?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14413149-M.jpg",
+    "isbn": "0593536118",
+    "isbn13": "9780593536117",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics", "humourous"],
+    "title": "Wellness"
+  },
+  {
+    "author": "KT Hoffman",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-prospects-kt-hoffman/20273002?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/68/69/9780593596869.jpg",
+    "isbn": "0593596862",
+    "isbn13": "9780593596869",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "romance", "sports"],
+    "title": "The Prospects"
+  },
+  {
+    "author": "Mary Liza Hartong",
+    "bookshopDotOrg": "https://bookshop.org/p/books/love-and-hot-chicken-a-delicious-southern-novel-mary-liza-hartong/20297436?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14578541-M.jpg",
+    "isbn": "0063304791",
+    "isbn13": "9780063304796",
+    "subtitle": "A Delicious Southern Novel",
+    "tags": ["lgbtq", "rom-com"],
+    "title": "Love and Hot Chicken"
+  },
+  {
+    "author": "Bill Perkins",
+    "bookshopDotOrg": "https://bookshop.org/p/books/die-with-zero-getting-all-you-can-from-your-money-and-your-life-bill-perkins/15130122?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/10475028-M.jpg",
+    "isbn": "0358567092",
+    "isbn13": "9780358567097",
+    "subtitle": "Getting All You Can from Your Money and Your Life",
+    "tags": ["nonfiction"],
+    "title": "Die With Zero"
+  },
+  {
+    "author": "Steven Rowley",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-guncle-abroad-steven-rowley/20583072?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14629921-M.jpg",
+    "isbn": "059354045X",
+    "isbn13": "9780593540459",
+    "tags": ["lgbtq", "family-dynamics", "humourous"],
+    "title": "The Guncle Abroad"
+  },
+  {
+    "author": "Taylor Jenkins Reid",
+    "bookshopDotOrg": "https://bookshop.org/p/books/daisy-jones-the-six-taylor-jenkins-reid/9186395?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/8742674-M.jpg",
+    "isbn": "1524798622",
+    "isbn13": "9781524798628",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "romance"],
+    "title": "Daisy Jones & the Six"
+  },
+  {
+    "author": "Maggie O’Farrell",
+    "bookshopDotOrg": "https://bookshop.org/p/books/this-must-be-the-place-maggie-o-farrell/9130952",
+    "coverSrc": "https://covers.openlibrary.org/b/id/12391105-M.jpg",
+    "isbn": "0345804724",
+    "isbn13": "9780345804723",
+    "subtitle": "A Novel",
+    "tags": ["family-dynamics", "strong-sense-of-place"],
+    "title": "This Must Be the Place"
+  },
+  {
+    "author": "Travis Alabanza",
+    "bookshopDotOrg": "https://bookshop.org/p/books/none-of-the-above-reflections-on-life-beyond-the-binary/19639406=",
+    "coverSrc": "https://images.isbndb.com/covers/03/47/9781558610347.jpg",
+    "isbn": "1558610340",
+    "isbn13": "9781558610347",
+    "subtitle": "Reflections on Life Beyond the Binary",
+    "tags": ["nonfiction", "memoir", "lgbtq", "politics", "feminism"],
+    "title": "None of the Above"
+  },
+  {
+    "author": "Joanna Quinn",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-whalebone-theatre-joanna-quinn/17772541",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13128552-M.jpg",
+    "isbn": "0593467159",
+    "isbn13": "9780593467152",
+    "subtitle": "A Novel",
+    "tags": ["historical-fiction", "family-dynamics", "coming-of-age"],
+    "title": "The Whalebone Theatre"
+  },
+  {
     "author": "Alison Cochrun",
     "bookshopDotOrg": "https://bookshop.org/p/books/here-we-go-again-alison-cochrun/20165361",
     "coverSrc": "https://images.isbndb.com/covers/11/94/9781668021194.jpg",
@@ -52,7 +271,12 @@
     "isbn": "039335668X",
     "isbn13": "9780393356687",
     "subtitle": "A Novel",
-    "tags": ["pdx-book-fest", "politics", "strongly-consider-reading"],
+    "tags": [
+      "pdx-book-fest",
+      "politics",
+      "strongly-consider-reading",
+      "nature"
+    ],
     "title": "The Overstory"
   },
   {
@@ -160,7 +384,7 @@
     "isbn": "1953534902",
     "isbn13": "9781935639206",
     "subtitle": "A Novel",
-    "tags": ["coming-of-age", "strong-sense-of-place"],
+    "tags": ["coming-of-age", "strong-sense-of-place", "nature"],
     "title": "Glaciers"
   },
   {

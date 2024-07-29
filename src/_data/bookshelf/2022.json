@@ -55,7 +55,13 @@
     "isbn": "0063073277",
     "isbn13": "9780063073272",
     "subtitle": "A Farmer’s Journey",
-    "tags": ["strong-sense-of-place", "memoir", "nonfiction", "politics"],
+    "tags": [
+      "strong-sense-of-place",
+      "memoir",
+      "nonfiction",
+      "politics",
+      "nature"
+    ],
     "title": "Pastoral Song"
   },
   {
@@ -139,7 +145,12 @@
     "isbn": "0063204150",
     "isbn13": "9780063204157",
     "subtitle": "A Novel",
-    "tags": ["friendship", "strong-sense-of-place", "family-dynamics"],
+    "tags": [
+      "friendship",
+      "strong-sense-of-place",
+      "family-dynamics",
+      "nature"
+    ],
     "title": "Remarkably Bright Creatures"
   },
   {
@@ -227,7 +238,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9780316300148-M.jpg",
     "isbn": "0316300144",
     "isbn13": "9780316300148",
-    "tags": ["sci-fi-fantasy", "politics", "technology"],
+    "tags": ["sci-fi-fantasy", "politics", "technology", "nature"],
     "title": "The Ministry of the Future"
   },
   {
@@ -340,7 +351,12 @@
     "isbn": "1982144416",
     "isbn13": "9781982144425",
     "subtitle": "A Novel",
-    "tags": ["strong-sense-of-place", "pdx-book-fest", "family-dynamics"],
+    "tags": [
+      "strong-sense-of-place",
+      "pdx-book-fest",
+      "family-dynamics",
+      "nature"
+    ],
     "title": "Damnation Spring"
   },
   {
@@ -542,7 +558,8 @@
       "sports",
       "memoir",
       "nonfiction",
-      "strong-sense-of-place"
+      "strong-sense-of-place",
+      "nature"
     ],
     "title": "Americana"
   },
