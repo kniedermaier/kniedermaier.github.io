@@ -1,7 +1,17 @@
 [
   {
+    "author": "Nicola Dinan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/bellies-original-nicola-dinan/18979623",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14390224-M.jpg",
+    "isbn": "1335490884",
+    "isbn13": "9781335490889",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "coming-of-age"],
+    "title": "Bellies"
+  },
+  {
     "author": "Rebecca K Reilly",
-    "bookshopDotOrg": "https://bookshop.org/p/books/greta-valdin-rebecca-k-reilly/20165452?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/greta-valdin-rebecca-k-reilly/20165452",
     "coverSrc": "https://images.isbndb.com/covers/80/49/9781668028049.jpg",
     "isbn": "1668028042",
     "isbn13": "9781668028049",
@@ -17,7 +27,7 @@
   },
   {
     "author": "James McBride",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-heaven-earth-grocery-store-james-mcbride/19674560?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-heaven-earth-grocery-store-james-mcbride/19674560",
     "coverSrc": "https://covers.openlibrary.org/b/id/13161648-M.jpg",
     "isbn": "0593422945",
     "isbn13": "9780593422946",
@@ -27,7 +37,7 @@
   },
   {
     "author": "Britney Griner",
-    "bookshopDotOrg": "https://bookshop.org/p/books/coming-home-brittney-griner/21003157?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/coming-home-brittney-griner/21003157",
     "coverSrc": "https://covers.openlibrary.org/b/id/14627275-M.jpg",
     "isbn": "0593801342",
     "isbn13": "9780593801345",
@@ -36,7 +46,7 @@
   },
   {
     "author": "Tommy Orange",
-    "bookshopDotOrg": "https://bookshop.org/p/books/wandering-stars-tommy-orange/20147180?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wandering-stars-tommy-orange/20147180",
     "coverSrc": "https://covers.openlibrary.org/b/id/14587967-M.jpg",
     "isbn": "0593318250",
     "isbn13": "9780593318256",
@@ -46,7 +56,7 @@
   },
   {
     "author": "Georgia Cloepfil",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-striker-and-the-clock-on-being-in-the-game-georgia-cloepfil/21003204?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-striker-and-the-clock-on-being-in-the-game-georgia-cloepfil/21003204",
     "coverSrc": "https://images.isbndb.com/covers/48/81/9780593714881.jpg",
     "isbn": "0593714881",
     "isbn13": "9780593714881",
@@ -56,7 +66,7 @@
   },
   {
     "author": "Erica Berry",
-    "bookshopDotOrg": "https://bookshop.org/p/books/wolfish-wolf-self-and-the-stories-we-tell-about-fear-erica-berry/18413421?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wolfish-wolf-self-and-the-stories-we-tell-about-fear-erica-berry/18413421",
     "coverSrc": "https://covers.openlibrary.org/b/id/13330216-M.jpg",
     "isbn": "1250832675",
     "isbn13": "9781250832672",
@@ -66,7 +76,7 @@
   },
   {
     "author": "Matt Cain",
-    "bookshopDotOrg": "https://bookshop.org/p/books/becoming-ted-matt-cain/20526035?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/becoming-ted-matt-cain/20526035",
     "coverSrc": "https://images.isbndb.com/covers/59/41/9781496745941.jpg",
     "isbn": "1496745949",
     "isbn13": "9781496745941",
@@ -76,11 +86,11 @@
   },
   {
     "author": "Kiley Reid",
-    "bookshopDotOrg": "https://bookshop.org/p/books/come-and-get-it-kiley-reid/20010908?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/come-and-get-it-kiley-reid/20010908",
     "coverSrc": "https://covers.openlibrary.org/b/id/14571761-M.jpg",
     "isbn": "0593328205",
     "isbn13": "9780593328200",
-    "subtitle": "",
+    "subtitle": "A Novel",
     "tags": [
       "insufferable-characters",
       "coming-of-age",
@@ -91,7 +101,7 @@
   },
   {
     "author": "Sophie Kinsella",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-burnout-sophie-kinsella/19997866?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-burnout-sophie-kinsella/19997866",
     "coverSrc": "https://covers.openlibrary.org/b/id/14399001-M.jpg",
     "isbn": "0593730399",
     "isbn13": "9780593730393",
@@ -101,7 +111,7 @@
   },
   {
     "author": "Lucy gilmore",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-lonely-hearts-book-club-lucy-gilmore/18567103?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-lonely-hearts-book-club-lucy-gilmore/18567103",
     "coverSrc": "https://covers.openlibrary.org/b/id/13214367-M.jpg",
     "isbn": "1728256216",
     "isbn13": "9781728256214",
@@ -111,7 +121,7 @@
   },
   {
     "author": "Daniel Mason",
-    "bookshopDotOrg": "https://bookshop.org/p/books/north-woods-daniel-mason/19507917?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/north-woods-daniel-mason/19507917",
     "coverSrc": "https://covers.openlibrary.org/b/id/14421778-M.jpg",
     "isbn": "0593597036",
     "isbn13": "9780593597033",
@@ -121,7 +131,7 @@
   },
   {
     "author": "Helen Simonson",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-hazelbourne-ladies-motorcycle-and-flying-club-helen-simonson/20411205?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-hazelbourne-ladies-motorcycle-and-flying-club-helen-simonson/20411205",
     "coverSrc": "https://covers.openlibrary.org/b/id/14621133-M.jpg",
     "isbn": "1984801317",
     "isbn13": "9781984801319",
@@ -131,7 +141,7 @@
   },
   {
     "author": "Nathan Hill",
-    "bookshopDotOrg": "https://bookshop.org/p/books/wellness-nathan-hill/19598608?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wellness-nathan-hill/19598608",
     "coverSrc": "https://covers.openlibrary.org/b/id/14413149-M.jpg",
     "isbn": "0593536118",
     "isbn13": "9780593536117",
@@ -141,7 +151,7 @@
   },
   {
     "author": "KT Hoffman",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-prospects-kt-hoffman/20273002?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-prospects-kt-hoffman/20273002",
     "coverSrc": "https://images.isbndb.com/covers/68/69/9780593596869.jpg",
     "isbn": "0593596862",
     "isbn13": "9780593596869",
@@ -151,7 +161,7 @@
   },
   {
     "author": "Mary Liza Hartong",
-    "bookshopDotOrg": "https://bookshop.org/p/books/love-and-hot-chicken-a-delicious-southern-novel-mary-liza-hartong/20297436?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/love-and-hot-chicken-a-delicious-southern-novel-mary-liza-hartong/20297436",
     "coverSrc": "https://covers.openlibrary.org/b/id/14578541-M.jpg",
     "isbn": "0063304791",
     "isbn13": "9780063304796",
@@ -161,7 +171,7 @@
   },
   {
     "author": "Bill Perkins",
-    "bookshopDotOrg": "https://bookshop.org/p/books/die-with-zero-getting-all-you-can-from-your-money-and-your-life-bill-perkins/15130122?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/die-with-zero-getting-all-you-can-from-your-money-and-your-life-bill-perkins/15130122",
     "coverSrc": "https://covers.openlibrary.org/b/id/10475028-M.jpg",
     "isbn": "0358567092",
     "isbn13": "9780358567097",
@@ -171,7 +181,7 @@
   },
   {
     "author": "Steven Rowley",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-guncle-abroad-steven-rowley/20583072?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-guncle-abroad-steven-rowley/20583072",
     "coverSrc": "https://covers.openlibrary.org/b/id/14629921-M.jpg",
     "isbn": "059354045X",
     "isbn13": "9780593540459",
@@ -180,7 +190,7 @@
   },
   {
     "author": "Taylor Jenkins Reid",
-    "bookshopDotOrg": "https://bookshop.org/p/books/daisy-jones-the-six-taylor-jenkins-reid/9186395?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/daisy-jones-the-six-taylor-jenkins-reid/9186395",
     "coverSrc": "https://covers.openlibrary.org/b/id/8742674-M.jpg",
     "isbn": "1524798622",
     "isbn13": "9781524798628",
