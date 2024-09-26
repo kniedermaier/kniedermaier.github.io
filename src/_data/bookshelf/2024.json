@@ -1,5 +1,140 @@
 [
   {
+    "author": "Kamala Puligandla",
+    "bookshopDotOrg": "https://bookshop.org/p/books/zigzags-kamala-puligandla/56646",
+    "coverSrc": "https://images.isbndb.com/covers/93/49/9781945649349.jpg",
+    "isbn": "1945649348",
+    "isbn13": "9781945649349",
+    "tags": ["strong-sense-of-place", "lgbtq", "coming-of-age", "friendship"],
+    "title": "Zigzags"
+  },
+  {
+    "author": "Sasha taqwšəblu LaPointe",
+    "bookshopDotOrg": "https://bookshop.org/p/books/thunder-song-essays-sasha-lapointe/20244753",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14595312-M.jpg",
+    "isbn": "1640096353",
+    "isbn13": "9781640096356",
+    "subtitle": "Essays",
+    "tags": [
+      "strong-sense-of-place",
+      "nonfiction",
+      "memoir",
+      "essays",
+      "strongly-consider-reading"
+    ],
+    "title": "Thunder Song"
+  },
+  {
+    "author": "Kaliane Bradley",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-ministry-of-time-kaliane-bradley/20696241",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14621125-M.jpg",
+    "isbn": "1668045141",
+    "isbn13": "9781668045145",
+    "subtitle": "A Novel",
+    "tags": ["sci-fi-fantasy", "romance", "strong-sense-of-place"],
+    "title": "The Ministry of Time"
+  },
+  {
+    "author": "Travis Baldree",
+    "bookshopDotOrg": "https://bookshop.org/p/books/legends-lattes-a-novel-of-high-fantasy-and-low-stakes-travis-baldree/18632175",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14539447-M.jpg",
+    "isbn": "1250886082",
+    "isbn13": "9781250886088",
+    "subtitle": "A Novel of High Fantasy and Low Stakes",
+    "tags": ["sci-fi-fantasy", "friendship", "humourous"],
+    "title": "Legends & Lattes"
+  },
+  {
+    "author": "Lola Milholland",
+    "bookshopDotOrg": "https://bookshop.org/p/books/group-living-and-other-recipes/20172491",
+    "coverSrc": "https://images.isbndb.com/covers/85/77/9781954118577.jpg",
+    "isbn": "1954118570",
+    "isbn13": "9781954118577",
+    "subtitle": "A Memoir",
+    "tags": ["nonfiction", "memoir", "strong-sense-of-place"],
+    "title": "Group Living and Other Recipes"
+  },
+  {
+    "author": "Casey McQuiston",
+    "bookshopDotOrg": "https://bookshop.org/p/books/untitled-vlab-anonymous-vlab/21061159",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14647342-M.jpg",
+    "isbn": "1250365848",
+    "isbn13": "9781250365842",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "coming-of-age", "strong-sense-of-place", "romance"],
+    "title": "The Pairing"
+  },
+  {
+    "author": "Emma Copley Eisenberg",
+    "bookshopDotOrg": "https://bookshop.org/p/books/housemates-emma-copley-eisenberg/20563504",
+    "coverSrc": "https://images.isbndb.com/covers/22/30/9780593242230.jpg",
+    "isbn": "0593242238",
+    "isbn13": "9780593242230",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "coming-of-age", "strong-sense-of-place"],
+    "title": "Housemates"
+  },
+  {
+    "author": "Gloria Dickie",
+    "bookshopDotOrg": "https://bookshop.org/p/books/eight-bears-mythic-past-and-imperiled-future/18841967",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14201638-M.jpg",
+    "isbn": "1324005084",
+    "isbn13": "9781324005087",
+    "subtitle": "Mythic Past and Imperiled Future",
+    "tags": ["nonfiction", "nature"],
+    "title": "Eight Bears"
+  },
+  {
+    "author": "Alison Espach",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-wedding-people-alison-espach/20604185",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14647406-M.jpg",
+    "isbn": "1250899575",
+    "isbn13": "9781250899576",
+    "subtitle": "A Novel",
+    "tags": ["humourous", "friendship", "romance"],
+    "title": "The Wedding People"
+  },
+  {
+    "author": "Rainbow Rowell",
+    "bookshopDotOrg": "https://bookshop.org/p/books/slow-dance-rainbow-rowell/21003002",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14642711-M.jpg",
+    "isbn": "0063380196",
+    "isbn13": "9780063380196",
+    "subtitle": "A Novel",
+    "tags": ["romance", "insufferable-characters"],
+    "title": "Slow Dance"
+  },
+  {
+    "author": "Susie Dumond",
+    "bookshopDotOrg": "https://bookshop.org/p/books/looking-for-a-sign-susie-dumond/20601134",
+    "coverSrc": "https://images.isbndb.com/covers/62/72/9780593596272.jpg",
+    "isbn": "0593596277",
+    "isbn13": "9780593596272",
+    "subtitle": "A Novel",
+    "tags": ["lgbtq", "coming-of-age", "rom-com"],
+    "title": "Looking for a sign"
+  },
+  {
+    "author": "Andrew McMahon",
+    "bookshopDotOrg": "https://bookshop.org/p/books/three-pianos-a-memoir-andrew-mcmahon/16331453",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13554905-M.jpg",
+    "isbn": "1648961819",
+    "isbn13": "9781648961816",
+    "subtitle": "A Memoir",
+    "tags": ["nonfiction", "memoir"],
+    "title": "Three Pianos"
+  },
+  {
+    "author": "Natalie Sue",
+    "bookshopDotOrg": "https://bookshop.org/p/books/i-hope-this-finds-you-well-natalie-sue/20917163",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14630898-M.jpg",
+    "isbn": "0063320363",
+    "isbn13": "9780063320369",
+    "subtitle": "A Novel",
+    "tags": ["rom-com", "coming-of-age"],
+    "title": "I Hope This Finds You Well"
+  },
+  {
     "author": "Nicola Dinan",
     "bookshopDotOrg": "https://bookshop.org/p/books/bellies-original-nicola-dinan/18979623",
     "coverSrc": "https://covers.openlibrary.org/b/id/14390224-M.jpg",
@@ -182,7 +317,7 @@
   {
     "author": "Steven Rowley",
     "bookshopDotOrg": "https://bookshop.org/p/books/the-guncle-abroad-steven-rowley/20583072",
-    "coverSrc": "https://covers.openlibrary.org/b/id/14629921-M.jpg",
+    "coverSrc": "https://images.isbndb.com/covers/04/59/9780593540459.jpg",
     "isbn": "059354045X",
     "isbn13": "9780593540459",
     "tags": ["lgbtq", "family-dynamics", "humourous"],
