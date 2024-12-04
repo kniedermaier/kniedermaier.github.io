@@ -1,5 +1,197 @@
 [
   {
+    "author": "Yoko Tawada",
+    "bookshopDotOrg": "https://bookshop.org/p/books/scattered-all-over-the-earth/18865508",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14760530-M.jpg",
+    "isbn": "0811229289",
+    "isbn13": "9780811229289",
+    "tags": [
+      "in-translation",
+      "sci-fi-fantasy",
+      "strong-sense-of-place",
+      "strongly-consider-reading"
+    ],
+    "title": "Scattered All Over the Earth",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Anita Kelly",
+    "bookshopDotOrg": "https://bookshop.org/p/books/something-wild-wonderful/18935019?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13236334-M.jpg",
+    "isbn": "1538754886",
+    "isbn13": "9781538754887",
+    "tags": ["romance", "lgbtq", "nature"],
+    "title": "Something Wild & Wonderful"
+  },
+  {
+    "author": "Mike Fu",
+    "bookshopDotOrg": "https://bookshop.org/p/books/masquerade-mike-fu/21069072?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/13604283482885.jpg",
+    "isbn": "1959030841",
+    "isbn13": "9781959030843",
+    "tags": [
+      "strong-sense-of-place",
+      "lgbtq",
+      "strongly-consider-reading",
+      "coming-of-age"
+    ],
+    "title": "Masquerade",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Rachel Kushner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/creation-lake-rachel-kushner/21003229?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14819482-M.jpg",
+    "isbn": "1982116528",
+    "isbn13": "9781982116521",
+    "tags": ["espionage", "pdx-book-fest", "strongly-consider-reading"],
+    "title": "Creation Lake",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Agnes Lee",
+    "bookshopDotOrg": "https://bookshop.org/p/books/49-days-agnes-lee/20233757?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/2255943482774.jpg",
+    "isbn": "1646143744",
+    "isbn13": "9781646143740",
+    "tags": ["graphic-novel", "family-dynamics"],
+    "title": "49 Days"
+  },
+  {
+    "author": "Naoise Dolan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-happy-couple-naoise-dolan/19731456?ean=",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14813814-M.jpg",
+    "isbn": "0063330474",
+    "isbn13": "9780063330474",
+    "tags": ["romance", "coming-of-age", "insufferable-characters", "lgbtq"],
+    "title": "The Happy Couple",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Frances Macken",
+    "bookshopDotOrg": "https://bookshop.org/p/books/you-have-to-make-your-own-fun-around-here-winner-of-the-beryl-bainbridge-first-time-author-award-frances-macken/13309803",
+    "coverSrc": "https://covers.openlibrary.org/b/id/10325894-M.jpg",
+    "isbn": "1786077655",
+    "isbn13": "9781786077653",
+    "tags": [
+      "strong-sense-of-place",
+      "coming-of-age",
+      "family-dynamics",
+      "friendship",
+      "insufferable-characters"
+    ],
+    "title": "You Have to Make Your Own Fun Around Here",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Anita Kelly",
+    "bookshopDotOrg": "https://bookshop.org/p/books/love-other-disasters-anita-kelly/17084147",
+    "coverSrc": "https://covers.openlibrary.org/b/id/12549567-M.jpg",
+    "isbn": "1538754843",
+    "isbn13": "9781538754849",
+    "tags": ["romance", "lgbtq"],
+    "title": "Love & Other Disasters"
+  },
+  {
+    "author": "Madeleine Ryan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-room-called-earth-madeleine-ryan/14125618",
+    "coverSrc": "https://covers.openlibrary.org/b/id/10326130-M.jpg",
+    "isbn": "0143135457",
+    "isbn13": "9780143135456",
+    "tags": ["romance", "coming-of-age"],
+    "title": "A Room Called Earth",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Sung J. Woo",
+    "bookshopDotOrg": "https://bookshop.org/p/books/lines-sung-woo/20629265",
+    "coverSrc": "https://images.isbndb.com/covers/18306653482884.jpg",
+    "isbn": "1956692509",
+    "isbn13": "9781956692501",
+    "tags": ["strong-sense-of-place", "romance", "sci-fi-fantasy"],
+    "title": "Lines",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Louise Erdrich",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-mighty-red-louise-erdrich/21153993",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14652097-M.jpg",
+    "isbn": "0063277050",
+    "isbn13": "9780063277052",
+    "tags": [
+      "strong-sense-of-place",
+      "family-dynamics",
+      "coming-of-age",
+      "nature"
+    ],
+    "title": "The Mighty Red",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Paul Murray",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-bee-sting-paul-murray/18789047",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14406691-M.jpg",
+    "isbn": "0374600309",
+    "isbn13": "9780374600303",
+    "tags": [
+      "strong-sense-of-place",
+      "family-dynamics",
+      "insufferable-characters"
+    ],
+    "title": "The Bee Sting",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Ella Dawson",
+    "bookshopDotOrg": "https://bookshop.org/p/books/but-how-are-you-really-ella-dawson/20594248",
+    "coverSrc": "https://images.isbndb.com/covers/7727503482399.jpg",
+    "isbn": "0593473779",
+    "isbn13": "9780593473771",
+    "tags": ["lgbtq", "romance", "coming-of-age"],
+    "title": "But How Are You, Really",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Shannon Bowring",
+    "bookshopDotOrg": "https://bookshop.org/p/books/where-the-forest-meets-the-river-shannon-bowring/21100216",
+    "coverSrc": "https://images.isbndb.com/covers/18758123488913.jpg",
+    "isbn": "9798889660439",
+    "isbn13": "9798889660439",
+    "tags": ["family-dynamics", "strong-sense-of-place", "lgbtq", "friendship"],
+    "title": "Where the Forest Meets the River",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Danzy Senna",
+    "bookshopDotOrg": "https://bookshop.org/p/books/colored-television-danzy-senna/20908768",
+    "coverSrc": "https://images.isbndb.com/covers/8433513482399.jpg",
+    "isbn": "0593544374",
+    "isbn13": "9780593544372",
+    "tags": ["family-dynamics", "pdx-book-fest"],
+    "title": "Colored Television",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Hanya Yanagihara",
+    "bookshopDotOrg": "https://bookshop.org/p/books/to-paradise-hanya-yanagihara/16643172",
+    "coverSrc": "https://covers.openlibrary.org/b/id/13720770-M.jpg",
+    "isbn": "0593315650",
+    "isbn13": "9780593315651",
+    "tags": ["historical-fiction", "family-dynamics", "sci-fi-fantasy"],
+    "title": "To Paradise",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Dolly Alderton",
+    "bookshopDotOrg": "https://bookshop.org/p/books/good-material-dolly-alderton/20589766",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14824685-M.jpg",
+    "isbn": "059380130X",
+    "isbn13": "9780593801307",
+    "tags": ["rom-com", "insufferable-characters"],
+    "title": "Good material",
+    "subtitle": "A Novel"
+  },
+  {
     "author": "Kamala Puligandla",
     "bookshopDotOrg": "https://bookshop.org/p/books/zigzags-kamala-puligandla/56646",
     "coverSrc": "https://images.isbndb.com/covers/93/49/9781945649349.jpg",

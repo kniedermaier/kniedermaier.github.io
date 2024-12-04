@@ -3043,5 +3043,96 @@
     "home": "Barca",
     "tv": "DAZN",
     "league": "WCL"
+  },
+  {
+    "dateTime": "2024-12-13T00:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "San Diego Wave FC",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T02:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T02:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T04:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T04:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T06:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T06:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T08:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T08:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T10:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T10:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T12:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T12:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T14:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T14:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T16:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T16:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T18:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T18:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T20:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T20:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T22:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T22:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
+  },
+  {
+    "dateTime": "2024-12-13T24:00:00.000-00:00",
+    "away": "Portland Thorns",
+    "home": "2024-12-13T24:00:00.000-00:00",
+    "tv": "",
+    "league": "NWSL"
   }
 ]
