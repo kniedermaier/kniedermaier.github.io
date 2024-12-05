@@ -443,6 +443,7 @@ table {
   font-size: 0.75rem;
   text-align: left;
   width: 100%;
+  margin-bottom: 32px;
 }
 
 /* utilities */

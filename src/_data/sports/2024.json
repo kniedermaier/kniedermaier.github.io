@@ -42,7 +42,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-05-08T8:30:00.000-00:00",
+    "dateTime": "2024-05-08T08:30:00.000-00:00",
     "away": "Minnesota Lynx",
     "home": "Washington Mystics",
     "tv": "Not Televised",
@@ -378,7 +378,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-06-01T9:00:00.000-00:00",
+    "dateTime": "2024-06-01T09:00:00.000-00:00",
     "away": "Chicago Sky",
     "home": "Indiana Fever",
     "tv": "NBA TV, WNBA League Pass",
@@ -623,7 +623,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-06-16T9:00:00.000-00:00",
+    "dateTime": "2024-06-16T09:00:00.000-00:00",
     "away": "Chicago Sky",
     "home": "Indiana Fever",
     "tv": "CBS, WNBA League Pass",
@@ -679,7 +679,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-06-20T9:00:00.000-00:00",
+    "dateTime": "2024-06-20T09:00:00.000-00:00",
     "away": "Dallas Wings",
     "home": "Chicago Sky",
     "tv": "WNBA League Pass",
@@ -973,21 +973,21 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-07-10T8:00:00.000-00:00",
+    "dateTime": "2024-07-10T08:00:00.000-00:00",
     "away": "New York Liberty",
     "home": "Connecticut Sun",
     "tv": "WNBA League Pass",
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-07-10T9:00:00.000-00:00",
+    "dateTime": "2024-07-10T09:00:00.000-00:00",
     "away": "Washington Mystics",
     "home": "Indiana Fever",
     "tv": "NBA TV, WNBA League Pass",
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-07-10T9:00:00.000-00:00",
+    "dateTime": "2024-07-10T09:00:00.000-00:00",
     "away": "Atlanta Dream",
     "home": "Chicago Sky",
     "tv": "WNBA League Pass",
@@ -1078,7 +1078,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-07-16T8:30:00.000-00:00",
+    "dateTime": "2024-07-16T08:30:00.000-00:00",
     "away": "Phoenix Mercury",
     "home": "Washington Mystics",
     "tv": "WNBA League Pass",
@@ -1302,7 +1302,7 @@
     "league": "WNBA"
   },
   {
-    "dateTime": "2024-08-25T9:00:00.000-00:00",
+    "dateTime": "2024-08-25T09:00:00.000-00:00",
     "away": "Las Vegas Aces",
     "home": "Chicago Sky",
     "tv": "CBS, WNBA League Pass",
@@ -2464,7 +2464,7 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-06-08T9:30:00.000-00:00",
+    "dateTime": "2024-06-08T09:30:00.000-00:00",
     "away": "Angel City FC",
     "home": "NJ/NY Gotham FC",
     "tv": "CBS, Paramount+",
@@ -2506,7 +2506,7 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-06-15T9:00:00.000-00:00",
+    "dateTime": "2024-06-15T09:00:00.000-00:00",
     "away": "NJ/NY Gotham FC",
     "home": "Racing Louisville FC",
     "tv": "ESPN, ESPN+, ESPN Deportes",
@@ -2744,7 +2744,7 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-08-25T9:00:00.000-00:00",
+    "dateTime": "2024-08-25T09:00:00.000-00:00",
     "away": "Kansas City Current",
     "home": "Washington Spirit",
     "tv": "CBSSN",
@@ -2814,7 +2814,7 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-09-07T9:30:00.000-00:00",
+    "dateTime": "2024-09-07T09:30:00.000-00:00",
     "away": "Portland Thorns",
     "home": "Washington Spirit",
     "tv": "CBS, Paramount+",
@@ -3206,14 +3206,14 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-11-09T9:00:00.000-00:00",
+    "dateTime": "2024-11-09T09:00:00.000-00:00",
     "away": "North Carolina Courage",
     "home": "Kansas City Current",
     "tv": "CBS, Paramount+",
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-11-10T9:30:00.000-00:00",
+    "dateTime": "2024-11-10T09:30:00.000-00:00",
     "away": "Bay FC",
     "home": "Washington Spirit",
     "tv": "ABC",
@@ -3227,7 +3227,7 @@
     "league": "NWSL"
   },
   {
-    "dateTime": "2024-11-16T9:00:00.000-00:00",
+    "dateTime": "2024-11-16T09:00:00.000-00:00",
     "away": "NJ/NY Gotham FC",
     "home": "Washington Spirit",
     "tv": "CBS, Paramount+",
@@ -3253,5 +3253,138 @@
     "home": "Barca",
     "tv": "DAZN",
     "league": "WCL"
+  },
+  {
+    "dateTime": "2024-11-30T11:00:00.000-00:00",
+    "away": "Boston",
+    "home": "Toronto",
+    "tv": "CBC, NESN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-11-30T17:00:00.000-00:00",
+    "away": "Ottawa",
+    "home": "Montréal",
+    "tv": "TSN, RDS",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-01T16:00:00.000-00:00",
+    "away": "New York",
+    "home": "Minnesota",
+    "tv": "TSN, MSGSN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-03T16:00:00.000-00:00",
+    "away": "Toronto",
+    "home": "Ottawa",
+    "tv": "Prime Video",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-04T16:00:00.000-00:00",
+    "away": "Minnesota",
+    "home": "Boston",
+    "tv": "TSN+, NESN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-14T16:00:00.000-00:00",
+    "away": "New York",
+    "home": "Montréal",
+    "tv": "TSN, RDS, MSG",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-06T16:00:00.000-00:00",
+    "away": "Montréal",
+    "home": "Ottawa",
+    "tv": "TSN, RDS",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-07T11:00:00.000-00:00",
+    "away": "Minnesota",
+    "home": "Toronto",
+    "tv": "CBC",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-08T13:00:00.000-00:00",
+    "away": "New York",
+    "home": "Boston",
+    "tv": "TSN, MSGSN, NESN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-17T16:00:00.000-00:00",
+    "away": "Ottawa",
+    "home": "Boston",
+    "tv": "NESN+, Prime Video",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-18T16:00:00.000-00:00",
+    "away": "Toronto",
+    "home": "New York",
+    "tv": "TSN, MSG",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-19T17:00:00.000-00:00",
+    "away": "Ottawa",
+    "home": "Minnesota",
+    "tv": "TSN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-21T11:00:00.000-00:00",
+    "away": "Montréal",
+    "home": "Toronto",
+    "tv": "CBC",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-22T09:00:00.000-00:00",
+    "away": "Minnesota",
+    "home": "New York",
+    "tv": "TSN, MSGSN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-27T16:00:00.000-00:00",
+    "away": "Boston",
+    "home": "Toronto",
+    "tv": "TSN, NESN+",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-28T11:00:00.000-00:00",
+    "away": "Montréal",
+    "home": "Minnesota",
+    "tv": "CBC",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-29T10:00:00.000-00:00",
+    "away": "Ottawa",
+    "home": "New York",
+    "tv": "TSN, MSG",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-30T16:00:00.000-00:00",
+    "away": "Boston",
+    "home": "Montréal",
+    "tv": "TSN, RDS, NESN",
+    "league": "PWHL"
+  },
+  {
+    "dateTime": "2024-12-31T16:00:00.000-00:00",
+    "away": "Ottawa",
+    "home": "Toronto",
+    "tv": "Prime Video",
+    "league": "PWHL"
   }
 ]
