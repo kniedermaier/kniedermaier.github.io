@@ -1,5 +1,15 @@
 [
   {
+    "author": "Sigrid Nunez",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-vulnerables-sigrid-nunez/19825414",
+    "coverSrc": "https://images.isbndb.com/covers/10145083482399.jpg",
+    "isbn": "0593715527",
+    "isbn13": "9780593715529",
+    "tags": ["friendship"],
+    "title": "The Vulnerables",
+    "subtitle": "A Novel"
+  },
+  {
     "author": "Yoko Tawada",
     "bookshopDotOrg": "https://bookshop.org/p/books/scattered-all-over-the-earth/18865508",
     "coverSrc": "https://covers.openlibrary.org/b/id/14760530-M.jpg",
@@ -16,7 +26,7 @@
   },
   {
     "author": "Anita Kelly",
-    "bookshopDotOrg": "https://bookshop.org/p/books/something-wild-wonderful/18935019?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/something-wild-wonderful/18935019",
     "coverSrc": "https://covers.openlibrary.org/b/id/13236334-M.jpg",
     "isbn": "1538754886",
     "isbn13": "9781538754887",
@@ -25,7 +35,7 @@
   },
   {
     "author": "Mike Fu",
-    "bookshopDotOrg": "https://bookshop.org/p/books/masquerade-mike-fu/21069072?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/masquerade-mike-fu/21069072",
     "coverSrc": "https://images.isbndb.com/covers/13604283482885.jpg",
     "isbn": "1959030841",
     "isbn13": "9781959030843",
@@ -40,7 +50,7 @@
   },
   {
     "author": "Rachel Kushner",
-    "bookshopDotOrg": "https://bookshop.org/p/books/creation-lake-rachel-kushner/21003229?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/creation-lake-rachel-kushner/21003229",
     "coverSrc": "https://covers.openlibrary.org/b/id/14819482-M.jpg",
     "isbn": "1982116528",
     "isbn13": "9781982116521",
@@ -50,7 +60,7 @@
   },
   {
     "author": "Agnes Lee",
-    "bookshopDotOrg": "https://bookshop.org/p/books/49-days-agnes-lee/20233757?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/49-days-agnes-lee/20233757",
     "coverSrc": "https://images.isbndb.com/covers/2255943482774.jpg",
     "isbn": "1646143744",
     "isbn13": "9781646143740",
@@ -59,7 +69,7 @@
   },
   {
     "author": "Naoise Dolan",
-    "bookshopDotOrg": "https://bookshop.org/p/books/the-happy-couple-naoise-dolan/19731456?ean=",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-happy-couple-naoise-dolan/19731456",
     "coverSrc": "https://covers.openlibrary.org/b/id/14813814-M.jpg",
     "isbn": "0063330474",
     "isbn13": "9780063330474",
