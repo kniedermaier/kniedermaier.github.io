@@ -1,7 +1,7 @@
 const form = document.querySelector("form");
 const tags = document.querySelectorAll(".tag input");
 const books = document.querySelectorAll(".book");
-const totalBooks = document.querySelectorAll("article p");
+const totalBooks = document.querySelectorAll("article p.bold");
 const clearButtonSelector = "button.clear";
 const clearButton = document.querySelector(clearButtonSelector);
 

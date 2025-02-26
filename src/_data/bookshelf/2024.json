@@ -1,5 +1,80 @@
 [
   {
+    "author": "Richard Powers",
+    "bookshopDotOrg": "https://bookshop.org/p/books/playground-richard-powers/21077251",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14612530-M.jpg",
+    "isbn": "1324086033",
+    "isbn13": "9781324086031",
+    "tags": ["nature", "coming-of-age", "strong-sense-of-place", "creative-liberties"],
+    "title": "Playground",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Maggie Shipstead",
+    "bookshopDotOrg": "https://bookshop.org/p/books/astonish-me-maggie-shipstead/9130792",
+    "coverSrc": "https://covers.openlibrary.org/b/id/7363918-M.jpg",
+    "isbn": "0345804619",
+    "isbn13": "9780345804617",
+    "tags": ["strong-sense-of-place", "family-dynamics"],
+    "title": "Astonish Me",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Anita Kelly",
+    "bookshopDotOrg": "https://bookshop.org/p/books/how-you-get-the-girl-anita-kelly/20173246",
+    "coverSrc": "https://images.isbndb.com/covers/23713523482735.jpg",
+    "isbn": "1538754916",
+    "isbn13": "9781538754917",
+    "tags": ["lgbtq", "sports", "romance"],
+    "title": "How You Get the Girl"
+  },
+  {
+    "author": "Oisín McKenna",
+    "bookshopDotOrg": "https://bookshop.org/p/books/evenings-and-weekends-oisin-mckenna/20209788",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14651259-M.jpg",
+    "isbn": "0063319977",
+    "isbn13": "9780063319974",
+    "tags": ["lgbtq", "coming-of-age", "strong-sense-of-place"],
+    "title": "Evenings and Weekends",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Anne de Marcken",
+    "bookshopDotOrg": "https://bookshop.org/p/books/it-lasts-forever-and-then-it-s-over-anne-de-marcken/20161783",
+    "coverSrc": "https://images.isbndb.com/covers/22762533482476.jpg",
+    "isbn": "0811237850",
+    "isbn13": "9780811237857",
+    "tags": ["sci-fi-fantasy", "magical-realism", "lgbtq", "creative-liberties"],
+    "title": "It Lasts Forever and Then It’s Over"
+  },
+  {
+    "author": "Hanif Abdurraqib",
+    "bookshopDotOrg": "https://bookshop.org/p/books/there-s-always-this-year-on-basketball-and-ascension-hanif-abdurraqib/20204172",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14750112-M.jpg",
+    "isbn": "0593448790",
+    "isbn13": "9780593448793",
+    "tags": [
+      "strong-sense-of-place",
+      "sports",
+      "memoir",
+      "politics",
+      "nonfiction",
+      "essays"
+    ],
+    "title": "There’s Always This Year",
+    "subtitle": "On Basketball and Ascension"
+  },
+  {
+    "author": "Teju Cole",
+    "bookshopDotOrg": "https://bookshop.org/p/books/every-day-is-for-the-thief-fiction-teju-cole/11740240",
+    "coverSrc": "https://covers.openlibrary.org/b/id/10053717-M.jpg",
+    "isbn": "0812985850",
+    "isbn13": "9780812985856",
+    "tags": ["strong-sense-of-place"],
+    "title": "Every Day Is for the Thief",
+    "subtitle": "Fiction"
+  },
+  {
     "author": "Sigrid Nunez",
     "bookshopDotOrg": "https://bookshop.org/p/books/the-vulnerables-sigrid-nunez/19825414",
     "coverSrc": "https://images.isbndb.com/covers/10145083482399.jpg",
@@ -838,7 +913,7 @@
   {
     "author": "Min Jin Lee",
     "bookshopDotOrg": "https://bookshop.org/p/books/pachinko-national-book-award-finalist-lee-min-jin/8324329",
-    "coverSrc": "https://covers.openlibrary.org/b/isbn/9781455563937-M.jpg",
+    "coverSrc": "https://images.isbndb.com/covers/6291393482706.jpg",
     "isbn": "1455563935",
     "isbn13": "9781455563937",
     "tags": [
