@@ -1,7 +1,7 @@
 {
   "name": "kim-niedermaier",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Kim Niedermaier’s corner of the internet",
   "main": ".eleventy.js",
   "author": "kimniedermaier <hello@kimniedermaier.com>",
@@ -11,7 +11,7 @@
     "build": "npx eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "clean-css": "^5.3.3",
     "html-minifier-terser": "^7.2.0"
   }
