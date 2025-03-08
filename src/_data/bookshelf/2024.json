@@ -5,7 +5,12 @@
     "coverSrc": "https://covers.openlibrary.org/b/id/14612530-M.jpg",
     "isbn": "1324086033",
     "isbn13": "9781324086031",
-    "tags": ["nature", "coming-of-age", "strong-sense-of-place", "creative-liberties"],
+    "tags": [
+      "nature",
+      "coming-of-age",
+      "strong-sense-of-place",
+      "creative-liberties"
+    ],
     "title": "Playground",
     "subtitle": "A Novel"
   },
@@ -44,7 +49,12 @@
     "coverSrc": "https://images.isbndb.com/covers/22762533482476.jpg",
     "isbn": "0811237850",
     "isbn13": "9780811237857",
-    "tags": ["sci-fi-fantasy", "magical-realism", "lgbtq", "creative-liberties"],
+    "tags": [
+      "sci-fi-fantasy",
+      "magical-realism",
+      "lgbtq",
+      "creative-liberties"
+    ],
     "title": "It Lasts Forever and Then It’s Over"
   },
   {
@@ -519,7 +529,7 @@
     "isbn13": "9780593730393",
     "subtitle": "A Novel",
     "tags": ["romance", "humourous", "insufferable-characters"],
-    "title": "The burnout"
+    "title": "The Burnout"
   },
   {
     "author": "Lucy gilmore",
@@ -951,7 +961,7 @@
     "coverSrc": "https://covers.openlibrary.org/b/isbn/9781982190606-M.jpg",
     "isbn": "1982190604",
     "isbn13": "9781982190606",
-    "subtitle": "Ambition, Beauty, and the Inside Story of Emily Weiss's Glossier",
+    "subtitle": "Ambition, Beauty, and the Inside Story of Emily Weiss’s Glossier",
     "tags": ["nonfiction", "feminism"],
     "title": "Glossy"
   }
