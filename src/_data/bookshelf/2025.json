@@ -1,5 +1,295 @@
 [
   {
+    "author": "Charlotte McConaghy",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wild-dark-shore-charlotte-mcconaghy/21367886?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/15095727-M.jpg",
+    "isbn": "1250827957",
+    "isbn13": "9781250827951",
+    "tags": ["strong-sense-of-place", "nature", "strongly-consider-reading", "family-dynamics"],
+    "title": "Wild Dark Shore",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Leisha Hailey and Kate Moennig",
+    "bookshopDotOrg": "https://bookshop.org/p/books/so-gay-for-you-katherine-moenning-leisha-hailey/21731015?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/4528563482633.jpg",
+    "isbn": "1250361362",
+    "isbn13": "9781250361363",
+    "tags": ["lgbtq", "nonfiction", "memoir", "friendship"],
+    "title": "So Gay for You",
+    "subtitle": "Friendship, Found Family, and the Show That Started It All"
+  },
+  {
+    "author": "Taylor Jenkins Reid",
+    "bookshopDotOrg": "https://bookshop.org/p/books/atmosphere-a-love-story-taylor-jenkins-reid/21972372?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/15091612-M.jpg",
+    "isbn": "0593158717",
+    "isbn13": "9780593158715",
+    "tags": ["historical-fiction", "lgbtq", "romance"],
+    "title": "Atmosphere",
+    "subtitle": "A Love Story"
+  },
+  {
+    "author": "Casey Tanner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/feel-it-all-a-therapist-s-guide-to-reimagining-your-relationship-with-sex-casey-tanner/20917152?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/14344573482210.jpg",
+    "isbn": "0063314045",
+    "isbn13": "9780063314047",
+    "tags": ["nonfiction"],
+    "title": "Feel It All",
+    "subtitle": "A Therapist’s Guide to Reimagining Your Relationship with Sex"
+  },
+  {
+    "author": "Liz Moore",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-god-of-the-woods-liz-moore/20696242?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14645735-M.jpg",
+    "isbn": "0593418913",
+    "isbn13": "9780593418918",
+    "tags": ["strong-sense-of-place", "strongly-consider-reading", "politics", "lgbtq"],
+    "title": "The God of the Woods",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Barbara Labuskes",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-boxcar-librarian-brianna-labuskes/21543313?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14849294-M.jpg",
+    "isbn": "0063427567",
+    "isbn13": "9780063427563",
+    "tags": ["strong-sense-of-place", "strongly-consider-reading", "politics", "lgbtq"],
+    "title": "The Boxcar Librarian",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Nathaniel Ian Miller",
+    "bookshopDotOrg": "https://bookshop.org/p/books/red-dog-farm-nathaniel-ian-miller/21633923?ean=&next=t",
+    "coverSrc": "https://www.hachettebookgroup.com/wp-content/uploads/2024/10/9780316575164.jpg?resize=203,300",
+    "isbn": "0316575143",
+    "isbn13": "9780316575140",
+    "tags": ["strong-sense-of-place", "family-dynamics", "strongly-consider-reading", "coming-of-age"],
+    "title": "Red Dog Farm",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Nathaniel Ian Miller",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-memoirs-of-stockholm-sven-nathaniel-ian-miller/17396623?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/12324394-M.jpg",
+    "isbn": "0316592587",
+    "isbn13": "9780316592581",
+    "tags": ["strong-sense-of-place", "historical-fiction", "strongly-consider-reading", "friendship"],
+    "title": "The Memoirs of Stockholm Sven"
+  },
+  {
+    "author": "Amanda Litman",
+    "bookshopDotOrg": "https://bookshop.org/p/books/when-we-re-in-charge-amanda-litman/21665240?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/15087221-M.jpg",
+    "isbn": "1638931925",
+    "isbn13": "9781638931928",
+    "tags": ["nonfiction", "politics"],
+    "title": "When We’re in Charge",
+    "subtitle": "The Next Generation’s Guide to Leadership"
+  },
+  {
+    "author": "Milo Todd",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-lilac-people-milo-todd/21693343?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14945990-M.jpg",
+    "isbn": "1640097031",
+    "isbn13": "9781640097032",
+    "tags": [
+      "historical-fiction",
+      "lgbtq",
+      "strongly-consider-reading",
+      "friendship"
+    ],
+    "title": "The Lilac People",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Jon Hickey",
+    "bookshopDotOrg": "https://bookshop.org/p/books/big-chief-jon-hickey/21534157?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/24682643482781.jpg",
+    "isbn": "1668046466",
+    "isbn13": "9781668046463",
+    "tags": ["family-dynamics", "strong-sense-of-place", "politics"],
+    "title": "Big Chief"
+  },
+  {
+    "author": "Marisa Crane",
+    "bookshopDotOrg": "https://bookshop.org/p/books/a-sharp-endless-need-marisa-crane/21548723?ean=&next=t",
+    "coverSrc": "https://www.autostraddle.com/wp-content/uploads/2025/05/81LG2PFcfLL._AC_UF10001000_QL80_.jpg?w=200",
+    "isbn": "0593733649",
+    "isbn13": "9780593733646",
+    "tags": [
+      "romance",
+      "coming-of-age",
+      "lgbtq",
+      "sports",
+      "strongly-consider-reading"
+    ],
+    "title": "A Sharp Endless Need",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Meryl Wilsner",
+    "bookshopDotOrg": "https://bookshop.org/p/books/my-best-friend-s-honeymoon-meryl-wilsner/21368030?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14850172-M.jpg",
+    "isbn": "1250873320",
+    "isbn13": "9781250873323",
+    "tags": ["romance", "lgbtq"],
+    "title": "My Best Friend’s Honeymoon"
+  },
+  {
+    "author": "Helen MacDonald",
+    "bookshopDotOrg": "https://bookshop.org/p/books/vesper-flights-helen-macdonald/15481754?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/10534940-M.jpg",
+    "isbn": "0802158676",
+    "isbn13": "9780802158673",
+    "tags": [
+      "nature",
+      "nonfiction",
+      "short-stories",
+      "strongly-consider-reading"
+    ],
+    "title": "Vesper Flights"
+  },
+  {
+    "author": "Abby Jimenez",
+    "bookshopDotOrg": "https://bookshop.org/p/books/just-for-the-summer-abby-jimenez/20441199?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14602781-M.jpg",
+    "isbn": "1538704439",
+    "isbn13": "9781538704431",
+    "tags": ["romance"],
+    "title": "Just For The Summer",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Kristen Kish",
+    "bookshopDotOrg": "https://bookshop.org/p/books/accidentally-on-purpose-kristen-kish/21762481?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/19292153482300.jpg",
+    "isbn": "0316580910",
+    "isbn13": "9780316580915",
+    "tags": ["memoir", "nonfiction", "lgbtq"],
+    "title": "Accidentally on Purpose",
+    "subtitle": "A Memoir"
+  },
+  {
+    "author": "Robin Sloan",
+    "bookshopDotOrg": "https://bookshop.org/p/books/wizard-s-design-robin-sloan/20374751?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14633560-M.jpg",
+    "isbn": "0374610606",
+    "isbn13": "9780374610609",
+    "tags": ["sci-fi-fantasy", "coming-of-age", "creative-liberties"],
+    "title": "Moonbound",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Weike Wang",
+    "bookshopDotOrg": "https://bookshop.org/p/books/rental-house-weike-wang/21275621?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14829152-M.jpg",
+    "isbn": "0593545540",
+    "isbn13": "9780593545546",
+    "tags": ["family-dynamics"],
+    "title": "Rental House",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Holly Brickley",
+    "bookshopDotOrg": "https://bookshop.org/p/books/deep-cuts-holly-brickley/21526775?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/10980653482399.jpg",
+    "isbn": "0593799089",
+    "isbn13": "9780593799086",
+    "tags": ["coming-of-age", "historical-fiction", "romance"],
+    "title": "Deep Cuts",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Kristen Arnett",
+    "bookshopDotOrg": "https://bookshop.org/p/books/stop-me-if-you-ve-heard-this-one-kristen-arnett/21612495?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/10187493482399.jpg",
+    "isbn": "0593719778",
+    "isbn13": "9780593719770",
+    "tags": ["lgbtq", "humourous"],
+    "title": "Stop Me If You’ve Heard This One Before",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Kelsey McKinney",
+    "bookshopDotOrg": "https://bookshop.org/p/books/you-didn-t-hear-this-from-me-mostly-true-notes-on-gossip-kelsey-mckinney/21441330?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/23738413482735.jpg",
+    "isbn": "1538757400",
+    "isbn13": "9780063424364",
+    "tags": ["nonfiction", "humourous"],
+    "title": "You Did’t Hear This From Me",
+    "subtitle": "(Mostly) True Notes on Gossip"
+  },
+  {
+    "author": "Lotte Jeffs",
+    "bookshopDotOrg": "https://bookshop.org/p/books/this-love-lotte-jeffs/21417062?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/15447743482210.jpg",
+    "isbn": "0063424363",
+    "isbn13": "9780063424364",
+    "tags": ["coming-of-age", "lgbtq", "family-dynamics", "friendship"],
+    "title": "This Love",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Ali Smith",
+    "bookshopDotOrg": "https://bookshop.org/p/books/gliff-ali-smith/20952727?ean=&next=t",
+    "coverSrc": "https://covers.openlibrary.org/b/id/14841804-M.jpg",
+    "isbn": "0593701569",
+    "isbn13": "9780593701560",
+    "tags": [
+      "strongly-consider-reading",
+      "coming-of-age",
+      "technology",
+      "family-dynamics",
+      "sci-fi-fantasy"
+    ],
+    "title": "Gliff",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Lily Brooks-Dalton",
+    "bookshopDotOrg": "https://bookshop.org/p/books/the-light-pirate-lily-dalton/19580087?ean=&next=t",
+    "coverSrc": "https://images.isbndb.com/covers/23247213482735.jpg",
+    "isbn": "1538708280",
+    "isbn13": "9781538708286",
+    "tags": [
+      "strongly-consider-reading",
+      "strong-sense-of-place",
+      "coming-of-age",
+      "nature",
+      "family-dynamics"
+    ],
+    "title": "The Light Pirate",
+    "subtitle": "A Novel"
+  },
+  {
+    "author": "Curtis Sittenfeld",
+    "bookshopDotOrg": "https://bookshop.org/p/books/show-don-t-tell-stories-curtis-sittenfeld/21516699?ean=",
+    "coverSrc": "https://images.isbndb.com/covers/7457163482399.jpg",
+    "isbn": "0593446739",
+    "isbn13": "9780593446737",
+    "tags": ["short-stories", "feminism"],
+    "title": "Show Don’t Tell",
+    "subtitle": "Stories"
+  },
+  {
+    "author": "Betty Shamieh",
+    "bookshopDotOrg": "https://bookshop.org/p/books/too-soon-betty-shamieh/21534158",
+    "coverSrc": "https://images.isbndb.com/covers/24683493482781.jpg",
+    "isbn": "1668046547",
+    "isbn13": "9781668046548",
+    "tags": [
+      "coming-of-age",
+      "family-dynamics",
+      "saga",
+      "strong-sense-of-place",
+      "strongly-consider-reading"
+    ],
+    "title": "Too Soon",
+    "subtitle": "A Novel"
+  },
+  {
     "author": "Curtis Sittenfeld",
     "bookshopDotOrg": "https://bookshop.org/p/books/prep-curtis-sittenfeld/11720632",
     "coverSrc": "https://covers.openlibrary.org/b/id/746378-M.jpg",
